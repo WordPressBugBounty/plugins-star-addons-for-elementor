@@ -1,0 +1,92 @@
+/* Admin CSS */
+.notice-info .notice-text {
+  position: relative;
+}
+
+.notice-text p.dismiss-link {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.notice.star-addons-theme-notice p {
+   font-size: 14px;
+}
+
+.notice.star-addons-theme-notice .button {
+  font-weight: 700;
+  margin-left: 10px;
+  color: #ffffff;
+  padding: 5px 20px;
+}
+
+.notice.star-addons-theme-notice .button.button-primary {
+  background: #05a97f;
+  border-color: #05a97f;
+}
+ 
+.notice.star-addons-theme-notice .button.button-primary:hover,
+.notice.star-addons-theme-notice .button.button-primary:focus {
+  opacity: 0.7;
+}
+
+.notice.star-addons-theme-notice .button.button-secondary {
+  background: #222222;
+  border-color: #222222;
+}
+ 
+.notice.star-addons-theme-notice .button.button-secondary:hover,
+.notice.star-addons-theme-notice .button.button-secondary:focus {
+  opacity: 0.7;
+}
+
+.notice.star-addons-theme-notice .notice-dismiss {
+  top: 10px;
+}
+
+.wp-core-ui .notice.star-addons-theme-notice.is-dismissible {
+  top: -10px;
+  margin-top: 25px;
+}
+
+/* Max width 767px */
+@media only screen and (max-width: 767px) {
+  .notice.star-addons-theme-notice .button {
+    margin: 8px 0;
+    padding: 3px 20px;
+  }
+}
+
+/* 
+Min width 768px to Max width 991px */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .notice.star-addons-theme-notice .button {
+    margin-left: 0;
+    margin-top: 5px;
+  }
+  .notice.star-addons-theme-notice .button.button-secondary {
+    margin-left: 15px;
+  }
+}
+
+/* 
+Min width 992px to Max width 1199px */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .notice.star-addons-theme-notice .button {
+    margin-left: 0;
+    margin-top: 5px;
+  }
+  .notice.star-addons-theme-notice .button.button-secondary {
+    margin-left: 15px;
+  }
+}
+
+/* 
+Min width 992px to Max width 1199px */
+@media only screen and (min-width: 1100px) {
+  .notice.star-addons-theme-notice p {
+    display: inline-block;
+  }
+}

@@ -1,0 +1,3287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Star Addons for Elementor\n"
+"POT-Creation-Date: 2023-09-26 18:15+0600\n"
+"PO-Revision-Date: 2023-09-26 18:15+0600\n"
+"Last-Translator: \n"
+"Language-Team: MhrTheme\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html;esc_html__;esc_html_e;esc_attr;esc_attr_e;"
+"esc_attr_x;esc_url;_e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-star-addons-custom.php:216
+#: includes/class-star-addons-custom.php:309
+msgid "Select A Category"
+msgstr ""
+
+#: includes/class-star-addons-custom.php:236
+msgid "Select A Page"
+msgstr ""
+
+#: includes/class-star-addons-custom.php:287
+msgid "Select a Contact Form"
+msgstr ""
+
+#: includes/class-star-addons-custom.php:293
+msgid "Create a Form First"
+msgstr ""
+
+#: includes/class-star-addons-custom.php:326
+msgid "Select A Menu"
+msgstr ""
+
+#: includes/class-star-addons-custom.php:349
+msgid "Add widgets here to appear in your star addons footer"
+msgstr ""
+
+#: includes/class-star-addons-custom.php:360
+msgid "Add widgets here."
+msgstr ""
+
+#: includes/class-star-addons-custom.php:434 includes/fields/field-2.php:260
+#: widgets/star-addons-service.php:16 widgets/star-addons-service.php:43
+msgid "Services"
+msgstr ""
+
+#: includes/class-star-addons-custom.php:435
+msgid "Service"
+msgstr ""
+
+#: includes/class-star-addons-custom.php:456
+#: includes/class-star-addons-custom.php:457 includes/fields/field-2.php:273
+#: widgets/star-addons-portfolio.php:16 widgets/star-addons-portfolio.php:43
+msgid "Portfolio"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:9
+msgid "Share Alt"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:10
+#: includes/class-star-addons-icons.php:43
+msgid "Map"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:11
+msgid "Cube"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:12
+msgid "Diamond"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:13
+msgid "User"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:14
+msgid "User Pin"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:15
+msgid "User Pin Alt"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:16 includes/fields/field-1.php:61
+msgid "Support"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:17
+msgid "Atom"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:18
+msgid "File Doc"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:19
+msgid "Anchor"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:20
+msgid "Category"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:21
+msgid "Shapes"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:22
+msgid "Message Edit"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:23
+msgid "Toggle Left"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:24
+msgid "Toggle Right"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:25
+msgid "News"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:26
+msgid "Box"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:27
+msgid "Brush"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:28
+msgid "Extension"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:29
+msgid "Gift"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:30
+msgid "Table"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:31
+msgid "Abacus"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:32
+msgid "Group"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:33
+msgid "Folder"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:34
+msgid "Rocket"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:35
+msgid "Hot"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:36
+msgid "Download"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:37 widgets/star-addons-blog.php:85
+#: widgets/star-addons-demos.php:85 widgets/star-addons-features.php:85
+#: widgets/star-addons-lp-course-category.php:85
+#: widgets/star-addons-lp-course-tag.php:85
+#: widgets/star-addons-lp-courses.php:85
+#: widgets/star-addons-photo-gallery.php:106
+#: widgets/star-addons-portfolio.php:85
+#: widgets/star-addons-product-category.php:75
+#: widgets/star-addons-product.php:74 widgets/star-addons-service.php:85
+#: widgets/star-addons-team.php:98 widgets/star-addons-testimonial.php:85
+msgid "Grid"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:38
+msgid "Credit Card Front"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:39
+msgid "Refresh"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:40
+msgid "Truck"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:41
+msgid "Time Five"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:42
+msgid "Phone Call"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:44
+msgid "Globe"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:45
+msgid "Plus"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:46
+msgid "Play"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:47
+msgid "Chevron Right"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:48
+msgid "Donate Blood"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:49
+msgid "Bank"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:50
+msgid "Cog"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:51
+msgid "Layer"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:52
+msgid "Brain"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:53
+msgid "Google"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:54
+msgid "Twitter"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:55
+msgid "Linkedin"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:56
+msgid "Instagram"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:57
+msgid "Instagram Alt"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:58
+msgid "facebook"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:59
+msgid "Pinterest"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:60
+#: widgets/star-addons-video-gallery.php:181
+msgid "YouTube"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:61
+msgid "Skype"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:62
+#: widgets/star-addons-video-gallery.php:182
+msgid "Vimeo"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:63
+msgid "Messenger"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:64
+msgid "Info Circle"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:65
+msgid "Book Open"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:66
+msgid "Shopping"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:67
+msgid "Dollar"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:68
+msgid "Copy"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:69
+msgid "Code"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:70
+msgid "Flag"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:71
+msgid "Camera"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:72
+msgid "Flag Checkered"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:73
+msgid "Health"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:74
+msgid "Lock Open"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:75
+msgid "Line Chart"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:76
+#: includes/class-star-addons-icons.php:85
+msgid "Book Reader"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:77
+msgid "Target Lock"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:78
+msgid "Thermometer"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:79
+msgid "Triangle"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:80
+msgid "Font Family"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:81
+msgid "Drink"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:82
+msgid "First Aid"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:83
+msgid "Chart"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:84
+msgid "Briefcase"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:86
+msgid "User Circle"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:87
+msgid "Check"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:88
+msgid "Check Circle"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:89
+msgid "Cake"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:90
+msgid "Paper Plane"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:91
+msgid "Laptop"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:92
+msgid "Mobile Vibration"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:93
+msgid "Paper Plane Alt"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:94
+msgid "File"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:95
+msgid "User Voice"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:96
+msgid "Quote Right"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:97
+msgid "Quote Left"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:98
+msgid "Chevron Down"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:99
+msgid "Chevron Up"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:100
+msgid "Send"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:101
+msgid "Right Arrow Alt"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:102
+msgid "Phone Call 2"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:103
+msgid "Location Plus"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:104
+msgid "Envelope"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:105
+msgid "Area"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:106
+#: includes/class-star-addons-icons.php:109
+msgid "Widget"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:107
+msgid "Calendar Event"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:108
+msgid "Id Card"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:110
+msgid "Trophy"
+msgstr ""
+
+#: includes/class-star-addons-icons.php:111
+msgid "Certification"
+msgstr ""
+
+#: includes/class-star-addons-init.php:182
+#: includes/class-star-addons-options.php:37
+msgid "Star Addons"
+msgstr ""
+
+#: includes/class-star-addons-init.php:315
+msgid "Activate Elementor"
+msgstr ""
+
+#: includes/class-star-addons-init.php:318
+msgid "Install Elementor"
+msgstr ""
+
+#: includes/class-star-addons-init.php:323
+#, php-format
+msgid "%1$s requires %2$s to be installed and activated. %3$s"
+msgstr ""
+
+#: includes/class-star-addons-init.php:324
+#: includes/class-star-addons-init.php:349
+#: includes/class-star-addons-init.php:374
+msgid "Star Addons for Elementor"
+msgstr ""
+
+#: includes/class-star-addons-init.php:325
+#: includes/class-star-addons-init.php:350
+msgid "Elementor"
+msgstr ""
+
+#: includes/class-star-addons-init.php:348
+#: includes/class-star-addons-init.php:373
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: includes/class-star-addons-init.php:375
+msgid "PHP"
+msgstr ""
+
+#: includes/class-star-addons-options.php:59
+msgid "Check Demos"
+msgstr ""
+
+#: includes/class-star-addons-options.php:67
+#: widgets/star-addons-coming-soon.php:129
+#: widgets/star-addons-video-gallery.php:138
+msgid "General"
+msgstr ""
+
+#: includes/class-star-addons-options.php:69
+msgid "Widgets"
+msgstr ""
+
+#: includes/class-star-addons-options.php:71 includes/fields/field-2.php:184
+#: widgets/star-addons-features.php:16 widgets/star-addons-pricing.php:148
+#: widgets/star-addons-pricing.php:278
+msgid "Features"
+msgstr ""
+
+#: includes/class-star-addons-options.php:73
+#: widgets/star-addons-photo-gallery.php:32
+#: widgets/star-addons-video-gallery.php:31
+msgid "Settings"
+msgstr ""
+
+#: includes/class-star-addons-options.php:75
+msgid "Premium"
+msgstr ""
+
+#: includes/class-star-addons-options.php:87
+msgid "Enable/Disable Star Addons Widgets"
+msgstr ""
+
+#: includes/class-star-addons-options.php:89
+msgid "Enable All"
+msgstr ""
+
+#: includes/class-star-addons-options.php:90
+msgid "Disable All"
+msgstr ""
+
+#: includes/class-star-addons-review.php:20
+#, php-format
+msgid ""
+"Rate a 5-star rating of this plugin and get a discount of up to 15% on your "
+"next purchase."
+msgstr ""
+
+#: includes/class-star-addons-review.php:23
+msgid "Review Our Plugin"
+msgstr ""
+
+#: includes/class-star-addons-review.php:24
+msgid "Don't Show Again"
+msgstr ""
+
+#: includes/fields/field-1.php:24
+msgid "A Collection of Multiple Addons for Elementor"
+msgstr ""
+
+#: includes/fields/field-1.php:25
+msgid ""
+"The plugin has 32+ beautiful unique niche demo variations + more adding!"
+msgstr ""
+
+#: includes/fields/field-1.php:26 includes/fields/field-6.php:23
+msgid "Buy Now"
+msgstr ""
+
+#: includes/fields/field-1.php:43 includes/fields/field-1.php:48
+msgid "Documentation"
+msgstr ""
+
+#: includes/fields/field-1.php:45
+msgid ""
+"Get started by spending some time with the documentation to get familiar "
+"with Star Addons."
+msgstr ""
+
+#: includes/fields/field-1.php:47
+msgid ""
+"Download the plugin, unzip it, and then you will find the documentation "
+"folder."
+msgstr ""
+
+#: includes/fields/field-1.php:58
+msgid "Got something to say? Need help?"
+msgstr ""
+
+#: includes/fields/field-1.php:59
+msgid ""
+"If you have any more questions, visit our support on the Template Monster "
+"ticket system. "
+msgstr ""
+
+#: includes/fields/field-1.php:60
+msgid ""
+"You will also get world class support from our dedicated team, 24/7. We will "
+"respond to you within 30 minutes."
+msgstr ""
+
+#: includes/fields/field-1.php:71 includes/fields/field-1.php:74
+msgid "Review"
+msgstr ""
+
+#: includes/fields/field-1.php:72
+msgid ""
+"We love to have you in Star Addons family. We are making it more awesome "
+"everyday."
+msgstr ""
+
+#: includes/fields/field-1.php:73
+msgid ""
+"Take your 2 minutes to review the plugin and spread the love to encourage us "
+"to keep it going."
+msgstr ""
+
+#: includes/fields/field-1.php:84
+msgid "Missing Any Feature?"
+msgstr ""
+
+#: includes/fields/field-1.php:85
+msgid ""
+"Are you in need of a feature that’s not available in our plugin? Please feel "
+"free to do a feature request by sending a mail."
+msgstr ""
+
+#: includes/fields/field-1.php:86
+msgid ""
+"We will try to our best to add your require feature in our plugin's future "
+"update."
+msgstr ""
+
+#: includes/fields/field-1.php:87
+msgid "Request Feature"
+msgstr ""
+
+#: includes/fields/field-1.php:99 includes/fields/field-2.php:299
+#: widgets/star-addons-faq.php:15
+msgid "FAQ"
+msgstr ""
+
+#: includes/fields/field-1.php:100 widgets/star-addons-faq.php:43
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: includes/fields/field-1.php:106
+msgid "Can I use the plugin without Elementor Page Builder?"
+msgstr ""
+
+#: includes/fields/field-1.php:107
+msgid "No. You cannot use without Elementor since it's an addon for Elementor."
+msgstr ""
+
+#: includes/fields/field-1.php:112
+msgid "Does it work with any theme?"
+msgstr ""
+
+#: includes/fields/field-1.php:113
+msgid "Absolutely! It will work with any theme where Elementor works."
+msgstr ""
+
+#: includes/fields/field-2.php:15
+msgid ""
+"<input type=\"checkbox\" id=\"slider\" name="
+"\"new_settings2[star_addons_widget_slider_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:15 widgets/star-addons-blog.php:86
+#: widgets/star-addons-demos.php:86 widgets/star-addons-features.php:86
+#: widgets/star-addons-portfolio.php:86
+#: widgets/star-addons-product-category.php:76
+#: widgets/star-addons-product.php:75 widgets/star-addons-service.php:86
+#: widgets/star-addons-slider.php:16 widgets/star-addons-slider.php:180
+#: widgets/star-addons-team.php:99 widgets/star-addons-testimonial.php:86
+msgid "Slider"
+msgstr ""
+
+#: includes/fields/field-2.php:29
+msgid ""
+"<input type=\"checkbox\" id=\"banner\" name="
+"\"new_settings2[star_addons_widget_banner_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:29 widgets/star-addons-banner.php:16
+msgid "Banner"
+msgstr ""
+
+#: includes/fields/field-2.php:42
+msgid ""
+"<input type=\"checkbox\" id=\"course\" name="
+"\"new_settings2[star_addons_widget_course_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:42
+msgid "LP Courses"
+msgstr ""
+
+#: includes/fields/field-2.php:55
+msgid ""
+"<input type=\"checkbox\" id=\"category\" name="
+"\"new_settings2[star_addons_widget_category_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:55
+msgid "LP Categories"
+msgstr ""
+
+#: includes/fields/field-2.php:68
+msgid ""
+"<input type=\"checkbox\" id=\"tag\" name="
+"\"new_settings2[star_addons_widget_tag_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:68
+msgid "LP Tags"
+msgstr ""
+
+#: includes/fields/field-2.php:81
+msgid ""
+"<input type=\"checkbox\" id=\"team\" name="
+"\"new_settings2[star_addons_widget_team_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:81
+msgid "Team"
+msgstr ""
+
+#: includes/fields/field-2.php:94
+msgid ""
+"<input type=\"checkbox\" id=\"about\" name="
+"\"new_settings2[star_addons_widget_about_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:94
+msgid "About"
+msgstr ""
+
+#: includes/fields/field-2.php:107
+msgid ""
+"<input type=\"checkbox\" id=\"testimonial\" name="
+"\"new_settings2[star_addons_widget_testimonial_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:107 widgets/star-addons-testimonial.php:16
+msgid "Testimonial"
+msgstr ""
+
+#: includes/fields/field-2.php:120
+msgid ""
+"<input type=\"checkbox\" id=\"contact\" name="
+"\"new_settings2[star_addons_widget_contact_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:120
+msgid "Contact"
+msgstr ""
+
+#: includes/fields/field-2.php:133
+msgid ""
+"<input type=\"checkbox\" id=\"blog\" name="
+"\"new_settings2[star_addons_widget_blog_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:133 widgets/star-addons-blog.php:16
+msgid "Blog"
+msgstr ""
+
+#: includes/fields/field-2.php:146
+msgid ""
+"<input type=\"checkbox\" id=\"header\" name="
+"\"new_settings2[star_addons_widget_header_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:146 widgets/star-addons-header.php:16
+#: widgets/star-addons-header.php:33
+msgid "Header"
+msgstr ""
+
+#: includes/fields/field-2.php:159
+msgid ""
+"<input type=\"checkbox\" id=\"footer\" name="
+"\"new_settings2[star_addons_widget_footer_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:159 widgets/star-addons-footer.php:16
+#: widgets/star-addons-footer.php:33
+msgid "Footer"
+msgstr ""
+
+#: includes/fields/field-2.php:172
+msgid ""
+"<input type=\"checkbox\" id=\"demos\" name="
+"\"new_settings2[star_addons_widget_demos_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:172 widgets/star-addons-demos.php:16
+msgid "Demos"
+msgstr ""
+
+#: includes/fields/field-2.php:184
+msgid ""
+"<input type=\"checkbox\" id=\"features\" name="
+"\"new_settings2[star_addons_widget_features_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:196
+msgid ""
+"<input type=\"checkbox\" id=\"call\" name="
+"\"new_settings2[star_addons_widget_call_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:196 widgets/star-addons-call-to-action.php:16
+msgid "Call To Action"
+msgstr ""
+
+#: includes/fields/field-2.php:208
+msgid ""
+"<input type=\"checkbox\" id=\"photo\" name="
+"\"new_settings2[star_addons_widget_photo_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:208 widgets/star-addons-photo-gallery.php:16
+msgid "PhotoGallery"
+msgstr ""
+
+#: includes/fields/field-2.php:221
+msgid ""
+"<input type=\"checkbox\" id=\"video\" name="
+"\"new_settings2[star_addons_widget_video_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:221 widgets/star-addons-video-gallery.php:16
+msgid "VideoGallery"
+msgstr ""
+
+#: includes/fields/field-2.php:234
+msgid ""
+"<input type=\"checkbox\" id=\"product\" name="
+"\"new_settings2[star_addons_widget_product_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:234 widgets/star-addons-product.php:16
+msgid "Products"
+msgstr ""
+
+#: includes/fields/field-2.php:247
+msgid ""
+"<input type=\"checkbox\" id=\"categories\" name="
+"\"new_settings2[star_addons_widget_categories_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:247 widgets/star-addons-product-category.php:16
+msgid "Product Categories"
+msgstr ""
+
+#: includes/fields/field-2.php:260
+msgid ""
+"<input type=\"checkbox\" id=\"service\" name="
+"\"new_settings2[star_addons_widget_service_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:273
+msgid ""
+"<input type=\"checkbox\" id=\"portfolio\" name="
+"\"new_settings2[star_addons_widget_portfolio_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:286
+msgid ""
+"<input type=\"checkbox\" id=\"pricing\" name="
+"\"new_settings2[star_addons_widget_pricing_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:286 widgets/star-addons-pricing.php:16
+#: widgets/star-addons-pricing.php:228 widgets/star-addons-pricing.php:358
+msgid "Pricing"
+msgstr ""
+
+#: includes/fields/field-2.php:299
+msgid ""
+"<input type=\"checkbox\" id=\"faq\" name="
+"\"new_settings2[star_addons_widget_faq_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:312
+msgid ""
+"<input type=\"checkbox\" id=\"coming\" name="
+"\"new_settings2[star_addons_widget_coming_enable]\" value=\"1\" "
+msgstr ""
+
+#: includes/fields/field-2.php:312 widgets/star-addons-coming-soon.php:16
+#: widgets/star-addons-coming-soon.php:55
+msgid "Coming Soon"
+msgstr ""
+
+#: includes/fields/field-3.php:14
+msgid "Star Addons Features"
+msgstr ""
+
+#: includes/fields/field-3.php:25
+msgid "Fully Responsive Layout"
+msgstr ""
+
+#: includes/fields/field-3.php:35
+msgid "Most Resourceful Widgets"
+msgstr ""
+
+#: includes/fields/field-3.php:45
+msgid "Fully Customizable"
+msgstr ""
+
+#: includes/fields/field-3.php:55
+msgid "Mobile Optimized"
+msgstr ""
+
+#: includes/fields/field-3.php:65
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/fields/field-3.php:75
+msgid "Lifetime Update"
+msgstr ""
+
+#: includes/fields/field-4.php:15
+msgid ""
+"<input type=\"color\" class=\"regular-text\" name="
+"\"new_settings4[star_addons_widget_main_color]\" value=\""
+msgstr ""
+
+#: includes/fields/field-4.php:27
+msgid ""
+"<input type=\"color\" class=\"regular-text\" name="
+"\"new_settings4[star_addons_widget_secondary_color]\" value=\""
+msgstr ""
+
+#: includes/fields/field-4.php:39
+msgid ""
+"<input type=\"text\" placeholder=\"16px\" class=\"regular-text\" name="
+"\"new_settings4[star_addons_widget_font_size]\" value=\""
+msgstr ""
+
+#: includes/fields/field-4.php:51
+msgid ""
+"<input type=\"text\" placeholder=\"500\" class=\"regular-text\" name="
+"\"new_settings4[star_addons_widget_font_weight]\" value=\""
+msgstr ""
+
+#: includes/fields/field-6.php:18
+msgid "Why upgrade to Premium Version?"
+msgstr ""
+
+#: includes/fields/field-6.php:21
+msgid ""
+"The premium version helps us to continue development of the product "
+"incorporating even more features and enhancements."
+msgstr ""
+
+#: includes/fields/field-6.php:22
+msgid "You will also get world class support from our dedicated team, 24/7."
+msgstr ""
+
+#: includes/library/class-star-addons-custom-category.php:41
+#: includes/library/class-star-addons-custom-category.php:68
+#: includes/library/class-star-addons-custom-tag.php:41
+#: includes/library/class-star-addons-custom-tag.php:68
+#: widgets/star-addons-demos.php:113 widgets/star-addons-team.php:126
+#: widgets/star-addons-testimonial.php:113
+msgid "Image"
+msgstr ""
+
+#: includes/library/class-star-addons-custom-category.php:45
+#: includes/library/class-star-addons-custom-category.php:79
+#: includes/library/class-star-addons-custom-tag.php:45
+#: includes/library/class-star-addons-custom-tag.php:79
+msgid "Add Image"
+msgstr ""
+
+#: includes/library/class-star-addons-custom-category.php:46
+#: includes/library/class-star-addons-custom-category.php:80
+#: includes/library/class-star-addons-custom-tag.php:46
+#: includes/library/class-star-addons-custom-tag.php:80
+msgid "Remove Image"
+msgstr ""
+
+#: includes/library/class-star-addons-custom-category.php:107
+#: includes/library/class-star-addons-custom-tag.php:107
+msgid "Insert"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-about.php:5
+msgid "Star Addons About Us"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-about.php:6
+msgid "This is about us widget."
+msgstr ""
+
+#: widgets/footer/star-addons-footer-about.php:88
+#: widgets/footer/star-addons-footer-contact.php:72
+msgid "Title:"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-about.php:96
+msgid "Logo URL:"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-about.php:104
+msgid "Description:"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-about.php:112
+msgid "Show Social:"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-about.php:117
+msgid "Facebook Link:"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-about.php:125
+msgid "Twitter Link:"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-about.php:133
+msgid "Instagram Link:"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-about.php:141
+msgid "Linekdin Link:"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-about.php:149
+msgid "Youtube Link:"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-contact.php:5
+msgid "Star Addons Contact Us"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-contact.php:6
+msgid "This is contact us widget."
+msgstr ""
+
+#: widgets/footer/star-addons-footer-contact.php:80
+#: widgets/star-addons-contact.php:111
+msgid "Address:"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-contact.php:88
+msgid "Email:"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-contact.php:96
+msgid "Phone:"
+msgstr ""
+
+#: widgets/footer/star-addons-footer-contact.php:104
+msgid "Fax:"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:16 widgets/star-addons-about-us.php:44
+msgid "About Us"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:32
+msgid "About Content"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:40
+msgid "About Top Title"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:42 widgets/star-addons-pricing.php:42
+msgid "Top Title"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:43 widgets/star-addons-about-us.php:54
+#: widgets/star-addons-banner.php:56 widgets/star-addons-banner.php:67
+#: widgets/star-addons-blog.php:43 widgets/star-addons-blog.php:54
+#: widgets/star-addons-call-to-action.php:43
+#: widgets/star-addons-call-to-action.php:54 widgets/star-addons-contact.php:43
+#: widgets/star-addons-contact.php:54 widgets/star-addons-contact.php:85
+#: widgets/star-addons-contact.php:110 widgets/star-addons-contact.php:120
+#: widgets/star-addons-contact.php:157 widgets/star-addons-demos.php:43
+#: widgets/star-addons-demos.php:54 widgets/star-addons-features.php:43
+#: widgets/star-addons-features.php:54
+#: widgets/star-addons-lp-course-category.php:43
+#: widgets/star-addons-lp-course-category.php:54
+#: widgets/star-addons-lp-course-tag.php:43
+#: widgets/star-addons-lp-course-tag.php:54
+#: widgets/star-addons-lp-courses.php:43 widgets/star-addons-lp-courses.php:54
+#: widgets/star-addons-slider.php:45 widgets/star-addons-slider.php:56
+#: widgets/star-addons-team.php:43 widgets/star-addons-team.php:54
+#: widgets/star-addons-testimonial.php:43
+#: widgets/star-addons-testimonial.php:54
+#: widgets/star-addons-testimonial.php:160
+msgid "This field support all html tag"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:51
+msgid "About Title"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:53 widgets/star-addons-banner.php:55
+#: widgets/star-addons-blog.php:42 widgets/star-addons-call-to-action.php:42
+#: widgets/star-addons-coming-soon.php:64 widgets/star-addons-contact.php:42
+#: widgets/star-addons-contact.php:84 widgets/star-addons-contact.php:106
+#: widgets/star-addons-contact.php:109 widgets/star-addons-contact.php:156
+#: widgets/star-addons-demos.php:42 widgets/star-addons-demos.php:127
+#: widgets/star-addons-faq.php:41 widgets/star-addons-faq.php:94
+#: widgets/star-addons-faq.php:96 widgets/star-addons-faq.php:132
+#: widgets/star-addons-faq.php:134 widgets/star-addons-features.php:42
+#: widgets/star-addons-features.php:129 widgets/star-addons-footer.php:124
+#: widgets/star-addons-footer.php:137
+#: widgets/star-addons-lp-course-category.php:42
+#: widgets/star-addons-lp-course-tag.php:42
+#: widgets/star-addons-lp-courses.php:42
+#: widgets/star-addons-photo-gallery.php:73
+#: widgets/star-addons-portfolio.php:52 widgets/star-addons-pricing.php:52
+#: widgets/star-addons-pricing.php:94 widgets/star-addons-pricing.php:105
+#: widgets/star-addons-pricing.php:127 widgets/star-addons-pricing.php:257
+#: widgets/star-addons-product-category.php:42
+#: widgets/star-addons-product.php:42 widgets/star-addons-service.php:52
+#: widgets/star-addons-slider.php:55 widgets/star-addons-team.php:42
+#: widgets/star-addons-team.php:140 widgets/star-addons-testimonial.php:42
+#: widgets/star-addons-testimonial.php:127
+#: widgets/star-addons-video-gallery.php:71
+#: widgets/star-addons-video-gallery.php:113
+msgid "Title"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:55
+msgid "We are Experts Learning Institution"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:62
+msgid "About Description"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:64 widgets/star-addons-banner.php:66
+#: widgets/star-addons-blog.php:53 widgets/star-addons-call-to-action.php:53
+#: widgets/star-addons-contact.php:53 widgets/star-addons-demos.php:53
+#: widgets/star-addons-faq.php:52 widgets/star-addons-faq.php:104
+#: widgets/star-addons-faq.php:106 widgets/star-addons-faq.php:142
+#: widgets/star-addons-faq.php:144 widgets/star-addons-features.php:53
+#: widgets/star-addons-lp-course-category.php:53
+#: widgets/star-addons-lp-course-tag.php:53
+#: widgets/star-addons-lp-courses.php:53
+#: widgets/star-addons-photo-gallery.php:84
+#: widgets/star-addons-portfolio.php:63 widgets/star-addons-pricing.php:62
+#: widgets/star-addons-pricing.php:137 widgets/star-addons-pricing.php:267
+#: widgets/star-addons-product-category.php:53
+#: widgets/star-addons-product.php:52 widgets/star-addons-service.php:63
+#: widgets/star-addons-team.php:53 widgets/star-addons-testimonial.php:53
+#: widgets/star-addons-video-gallery.php:82
+#: widgets/star-addons-video-gallery.php:123
+msgid "Description"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:65
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt dolore magna aliqua."
+msgstr ""
+
+#: widgets/star-addons-about-us.php:73 widgets/star-addons-banner.php:76
+#: widgets/star-addons-blog.php:63 widgets/star-addons-call-to-action.php:63
+#: widgets/star-addons-coming-soon.php:82 widgets/star-addons-contact.php:63
+#: widgets/star-addons-demos.php:63 widgets/star-addons-features.php:63
+#: widgets/star-addons-header.php:319
+#: widgets/star-addons-lp-course-category.php:63
+#: widgets/star-addons-lp-course-tag.php:63
+#: widgets/star-addons-lp-courses.php:63 widgets/star-addons-team.php:63
+#: widgets/star-addons-testimonial.php:63
+#: widgets/star-addons-video-gallery.php:91
+msgid "Background"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:84 widgets/star-addons-about-us.php:92
+msgid "About Image"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:123
+msgid "About Style"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:131
+msgid "About Top Title Color"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:142
+msgid "About Title Color"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:153
+msgid "About Description Color"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:164
+msgid "About Image Height"
+msgstr ""
+
+#: widgets/star-addons-about-us.php:181
+msgid "About Image Width"
+msgstr ""
+
+#: widgets/star-addons-banner.php:32
+msgid "Banner Content"
+msgstr ""
+
+#: widgets/star-addons-banner.php:40 widgets/star-addons-banner.php:236
+msgid "Banner Style"
+msgstr ""
+
+#: widgets/star-addons-banner.php:43 widgets/star-addons-photo-gallery.php:44
+#: widgets/star-addons-team.php:85 widgets/star-addons-video-gallery.php:43
+msgid "Style 01"
+msgstr ""
+
+#: widgets/star-addons-banner.php:44 widgets/star-addons-photo-gallery.php:45
+#: widgets/star-addons-team.php:86 widgets/star-addons-video-gallery.php:44
+msgid "Style 02"
+msgstr ""
+
+#: widgets/star-addons-banner.php:53
+msgid "Banner Title"
+msgstr ""
+
+#: widgets/star-addons-banner.php:57 widgets/star-addons-slider.php:57
+msgid "Education is the best key success in life."
+msgstr ""
+
+#: widgets/star-addons-banner.php:64
+msgid "Banner Description"
+msgstr ""
+
+#: widgets/star-addons-banner.php:68 widgets/star-addons-blog.php:55
+#: widgets/star-addons-lp-course-category.php:55
+#: widgets/star-addons-lp-course-tag.php:55
+#: widgets/star-addons-lp-courses.php:55
+#: widgets/star-addons-photo-gallery.php:85
+#: widgets/star-addons-video-gallery.php:83
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt dolore magna aliqua. Quis ipsum suspendisse ultrices "
+"gravida."
+msgstr ""
+
+#: widgets/star-addons-banner.php:85
+msgid "Banner Image"
+msgstr ""
+
+#: widgets/star-addons-banner.php:122 widgets/star-addons-blog.php:222
+#: widgets/star-addons-call-to-action.php:74
+#: widgets/star-addons-lp-courses.php:168 widgets/star-addons-portfolio.php:152
+#: widgets/star-addons-product.php:190 widgets/star-addons-service.php:152
+msgid "Button Content"
+msgstr ""
+
+#: widgets/star-addons-banner.php:130 widgets/star-addons-blog.php:230
+#: widgets/star-addons-call-to-action.php:82
+#: widgets/star-addons-coming-soon.php:101 widgets/star-addons-header.php:54
+#: widgets/star-addons-lp-courses.php:176 widgets/star-addons-portfolio.php:160
+#: widgets/star-addons-pricing.php:156 widgets/star-addons-pricing.php:286
+#: widgets/star-addons-product.php:198 widgets/star-addons-service.php:160
+#: widgets/star-addons-slider.php:76
+msgid "Show Button?"
+msgstr ""
+
+#: widgets/star-addons-banner.php:132 widgets/star-addons-banner.php:156
+#: widgets/star-addons-blog.php:207 widgets/star-addons-blog.php:232
+#: widgets/star-addons-blog.php:256 widgets/star-addons-call-to-action.php:84
+#: widgets/star-addons-call-to-action.php:108
+#: widgets/star-addons-coming-soon.php:103 widgets/star-addons-footer.php:44
+#: widgets/star-addons-footer.php:57 widgets/star-addons-footer.php:70
+#: widgets/star-addons-footer.php:112 widgets/star-addons-header.php:44
+#: widgets/star-addons-header.php:56 widgets/star-addons-header.php:84
+#: widgets/star-addons-header.php:285 widgets/star-addons-header.php:308
+#: widgets/star-addons-lp-course-category.php:128
+#: widgets/star-addons-lp-course-tag.php:128
+#: widgets/star-addons-lp-courses.php:178
+#: widgets/star-addons-lp-courses.php:202 widgets/star-addons-portfolio.php:137
+#: widgets/star-addons-portfolio.php:162 widgets/star-addons-pricing.php:158
+#: widgets/star-addons-pricing.php:288 widgets/star-addons-product.php:200
+#: widgets/star-addons-service.php:137 widgets/star-addons-service.php:162
+#: widgets/star-addons-slider.php:78 widgets/star-addons-slider.php:102
+#: widgets/star-addons-team.php:159
+msgid "Yes"
+msgstr ""
+
+#: widgets/star-addons-banner.php:133 widgets/star-addons-banner.php:157
+#: widgets/star-addons-blog.php:208 widgets/star-addons-blog.php:233
+#: widgets/star-addons-blog.php:257 widgets/star-addons-call-to-action.php:85
+#: widgets/star-addons-call-to-action.php:109
+#: widgets/star-addons-coming-soon.php:104 widgets/star-addons-footer.php:45
+#: widgets/star-addons-footer.php:58 widgets/star-addons-footer.php:71
+#: widgets/star-addons-footer.php:113 widgets/star-addons-header.php:45
+#: widgets/star-addons-header.php:57 widgets/star-addons-header.php:85
+#: widgets/star-addons-header.php:286 widgets/star-addons-header.php:309
+#: widgets/star-addons-lp-course-category.php:129
+#: widgets/star-addons-lp-course-tag.php:129
+#: widgets/star-addons-lp-courses.php:179
+#: widgets/star-addons-lp-courses.php:203 widgets/star-addons-portfolio.php:138
+#: widgets/star-addons-portfolio.php:163 widgets/star-addons-pricing.php:159
+#: widgets/star-addons-pricing.php:289 widgets/star-addons-product.php:201
+#: widgets/star-addons-service.php:138 widgets/star-addons-service.php:163
+#: widgets/star-addons-slider.php:79 widgets/star-addons-slider.php:103
+#: widgets/star-addons-team.php:160
+msgid "No"
+msgstr ""
+
+#: widgets/star-addons-banner.php:142 widgets/star-addons-blog.php:242
+#: widgets/star-addons-call-to-action.php:94
+#: widgets/star-addons-coming-soon.php:113 widgets/star-addons-header.php:69
+#: widgets/star-addons-lp-courses.php:188 widgets/star-addons-portfolio.php:172
+#: widgets/star-addons-pricing.php:168 widgets/star-addons-pricing.php:298
+#: widgets/star-addons-product.php:210 widgets/star-addons-service.php:172
+#: widgets/star-addons-slider.php:88
+msgid "Button Text"
+msgstr ""
+
+#: widgets/star-addons-banner.php:144 widgets/star-addons-lp-courses.php:190
+#: widgets/star-addons-slider.php:90
+msgid "View All Courses"
+msgstr ""
+
+#: widgets/star-addons-banner.php:154 widgets/star-addons-blog.php:254
+#: widgets/star-addons-call-to-action.php:106 widgets/star-addons-header.php:82
+#: widgets/star-addons-lp-courses.php:200 widgets/star-addons-slider.php:100
+msgid "Want to Add Icon?"
+msgstr ""
+
+#: widgets/star-addons-banner.php:169 widgets/star-addons-blog.php:269
+#: widgets/star-addons-call-to-action.php:121
+#: widgets/star-addons-coming-soon.php:141
+#: widgets/star-addons-coming-soon.php:155 widgets/star-addons-header.php:98
+#: widgets/star-addons-lp-courses.php:215 widgets/star-addons-slider.php:115
+msgid "Button Icon"
+msgstr ""
+
+#: widgets/star-addons-banner.php:186 widgets/star-addons-blog.php:286
+#: widgets/star-addons-call-to-action.php:138
+#: widgets/star-addons-coming-soon.php:168 widgets/star-addons-header.php:116
+#: widgets/star-addons-lp-courses.php:232 widgets/star-addons-portfolio.php:184
+#: widgets/star-addons-pricing.php:180 widgets/star-addons-pricing.php:310
+#: widgets/star-addons-product.php:222 widgets/star-addons-service.php:184
+#: widgets/star-addons-slider.php:132
+msgid "Button Link Type"
+msgstr ""
+
+#: widgets/star-addons-banner.php:190 widgets/star-addons-blog.php:290
+#: widgets/star-addons-call-to-action.php:142
+#: widgets/star-addons-coming-soon.php:172 widgets/star-addons-header.php:120
+#: widgets/star-addons-lp-courses.php:236 widgets/star-addons-portfolio.php:188
+#: widgets/star-addons-pricing.php:184 widgets/star-addons-pricing.php:314
+#: widgets/star-addons-product.php:226 widgets/star-addons-service.php:188
+#: widgets/star-addons-slider.php:136
+msgid "Link To Page"
+msgstr ""
+
+#: widgets/star-addons-banner.php:191 widgets/star-addons-blog.php:291
+#: widgets/star-addons-call-to-action.php:143
+#: widgets/star-addons-coming-soon.php:173 widgets/star-addons-header.php:121
+#: widgets/star-addons-lp-courses.php:237 widgets/star-addons-portfolio.php:189
+#: widgets/star-addons-pricing.php:185 widgets/star-addons-pricing.php:315
+#: widgets/star-addons-product.php:227 widgets/star-addons-service.php:189
+#: widgets/star-addons-slider.php:137
+msgid "External Link"
+msgstr ""
+
+#: widgets/star-addons-banner.php:203 widgets/star-addons-blog.php:303
+#: widgets/star-addons-call-to-action.php:155
+#: widgets/star-addons-coming-soon.php:185 widgets/star-addons-header.php:134
+#: widgets/star-addons-lp-courses.php:249 widgets/star-addons-portfolio.php:201
+#: widgets/star-addons-pricing.php:197 widgets/star-addons-pricing.php:327
+#: widgets/star-addons-product.php:239 widgets/star-addons-service.php:201
+#: widgets/star-addons-slider.php:149
+msgid "Button Link Page"
+msgstr ""
+
+#: widgets/star-addons-banner.php:217 widgets/star-addons-blog.php:317
+#: widgets/star-addons-call-to-action.php:169
+#: widgets/star-addons-coming-soon.php:199 widgets/star-addons-header.php:149
+#: widgets/star-addons-lp-courses.php:263 widgets/star-addons-portfolio.php:215
+#: widgets/star-addons-pricing.php:211 widgets/star-addons-pricing.php:341
+#: widgets/star-addons-product.php:253 widgets/star-addons-service.php:215
+#: widgets/star-addons-slider.php:163
+msgid "Button External Link"
+msgstr ""
+
+#: widgets/star-addons-banner.php:244
+msgid "Banner Title Color"
+msgstr ""
+
+#: widgets/star-addons-banner.php:255
+msgid "Banner Description Color"
+msgstr ""
+
+#: widgets/star-addons-banner.php:266
+msgid "Banner Image Height"
+msgstr ""
+
+#: widgets/star-addons-banner.php:286
+msgid "Banner Image Width"
+msgstr ""
+
+#: widgets/star-addons-banner.php:308 widgets/star-addons-blog.php:486
+#: widgets/star-addons-call-to-action.php:220
+#: widgets/star-addons-contact.php:379 widgets/star-addons-header.php:398
+#: widgets/star-addons-lp-courses.php:424 widgets/star-addons-slider.php:251
+msgid "Button Style"
+msgstr ""
+
+#: widgets/star-addons-banner.php:319 widgets/star-addons-blog.php:497
+#: widgets/star-addons-call-to-action.php:231
+#: widgets/star-addons-contact.php:387 widgets/star-addons-header.php:410
+#: widgets/star-addons-lp-courses.php:435 widgets/star-addons-slider.php:259
+msgid "Button Background Color"
+msgstr ""
+
+#: widgets/star-addons-banner.php:330 widgets/star-addons-blog.php:508
+#: widgets/star-addons-call-to-action.php:242
+#: widgets/star-addons-contact.php:398 widgets/star-addons-header.php:421
+#: widgets/star-addons-lp-courses.php:446 widgets/star-addons-slider.php:281
+msgid "Button Color"
+msgstr ""
+
+#: widgets/star-addons-banner.php:341
+#: widgets/star-addons-call-to-action.php:253
+#: widgets/star-addons-contact.php:420 widgets/star-addons-header.php:432
+#: widgets/star-addons-slider.php:292
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: widgets/star-addons-banner.php:352 widgets/star-addons-blog.php:530
+#: widgets/star-addons-call-to-action.php:264
+#: widgets/star-addons-contact.php:431 widgets/star-addons-header.php:443
+#: widgets/star-addons-lp-courses.php:468 widgets/star-addons-slider.php:314
+msgid "Button Hover Color"
+msgstr ""
+
+#: widgets/star-addons-blog.php:32
+#: widgets/star-addons-lp-course-category.php:32
+#: widgets/star-addons-lp-course-tag.php:32
+#: widgets/star-addons-lp-courses.php:32 widgets/star-addons-portfolio.php:32
+#: widgets/star-addons-product-category.php:32
+#: widgets/star-addons-product.php:32 widgets/star-addons-service.php:32
+msgid "Section Content"
+msgstr ""
+
+#: widgets/star-addons-blog.php:40 widgets/star-addons-contact.php:40
+#: widgets/star-addons-demos.php:40 widgets/star-addons-faq.php:39
+#: widgets/star-addons-features.php:40
+#: widgets/star-addons-lp-course-category.php:40
+#: widgets/star-addons-lp-course-tag.php:40
+#: widgets/star-addons-lp-courses.php:40
+#: widgets/star-addons-photo-gallery.php:70
+#: widgets/star-addons-portfolio.php:50
+#: widgets/star-addons-product-category.php:40
+#: widgets/star-addons-product.php:40 widgets/star-addons-service.php:50
+#: widgets/star-addons-team.php:40 widgets/star-addons-testimonial.php:40
+#: widgets/star-addons-video-gallery.php:68
+msgid "Section Title"
+msgstr ""
+
+#: widgets/star-addons-blog.php:44
+msgid "Our Featured Blog"
+msgstr ""
+
+#: widgets/star-addons-blog.php:51 widgets/star-addons-contact.php:51
+#: widgets/star-addons-demos.php:51 widgets/star-addons-faq.php:50
+#: widgets/star-addons-features.php:51
+#: widgets/star-addons-lp-course-category.php:51
+#: widgets/star-addons-lp-course-tag.php:51
+#: widgets/star-addons-lp-courses.php:51
+#: widgets/star-addons-photo-gallery.php:81
+#: widgets/star-addons-portfolio.php:61
+#: widgets/star-addons-product-category.php:51
+#: widgets/star-addons-product.php:50 widgets/star-addons-service.php:61
+#: widgets/star-addons-team.php:51 widgets/star-addons-testimonial.php:51
+#: widgets/star-addons-video-gallery.php:79
+msgid "Section Description"
+msgstr ""
+
+#: widgets/star-addons-blog.php:74
+msgid "Blog Content"
+msgstr ""
+
+#: widgets/star-addons-blog.php:82
+msgid "Select Blog Style"
+msgstr ""
+
+#: widgets/star-addons-blog.php:95
+msgid "Select Blog Sidebar"
+msgstr ""
+
+#: widgets/star-addons-blog.php:99 widgets/star-addons-product.php:89
+msgid "No Sidebar"
+msgstr ""
+
+#: widgets/star-addons-blog.php:100 widgets/star-addons-product.php:90
+msgid "Left Sidebar"
+msgstr ""
+
+#: widgets/star-addons-blog.php:101 widgets/star-addons-product.php:91
+msgid "Right Sidebar"
+msgstr ""
+
+#: widgets/star-addons-blog.php:110
+msgid "Select Blog Column"
+msgstr ""
+
+#: widgets/star-addons-blog.php:113
+#: widgets/star-addons-lp-course-category.php:98
+#: widgets/star-addons-lp-course-tag.php:98
+#: widgets/star-addons-lp-courses.php:98 widgets/star-addons-portfolio.php:98
+#: widgets/star-addons-product-category.php:88
+#: widgets/star-addons-product.php:103 widgets/star-addons-service.php:98
+msgid "1"
+msgstr ""
+
+#: widgets/star-addons-blog.php:114 widgets/star-addons-demos.php:98
+#: widgets/star-addons-features.php:98
+#: widgets/star-addons-lp-course-category.php:99
+#: widgets/star-addons-lp-course-tag.php:99
+#: widgets/star-addons-lp-courses.php:99
+#: widgets/star-addons-photo-gallery.php:120
+#: widgets/star-addons-photo-gallery.php:140
+#: widgets/star-addons-portfolio.php:99
+#: widgets/star-addons-product-category.php:89
+#: widgets/star-addons-product.php:104 widgets/star-addons-service.php:99
+#: widgets/star-addons-team.php:111 widgets/star-addons-testimonial.php:98
+msgid "2"
+msgstr ""
+
+#: widgets/star-addons-blog.php:115 widgets/star-addons-demos.php:99
+#: widgets/star-addons-features.php:99
+#: widgets/star-addons-lp-course-category.php:100
+#: widgets/star-addons-lp-course-tag.php:100
+#: widgets/star-addons-lp-courses.php:100
+#: widgets/star-addons-photo-gallery.php:121
+#: widgets/star-addons-photo-gallery.php:141
+#: widgets/star-addons-portfolio.php:100
+#: widgets/star-addons-product-category.php:90
+#: widgets/star-addons-product.php:105 widgets/star-addons-service.php:100
+#: widgets/star-addons-team.php:112 widgets/star-addons-testimonial.php:99
+msgid "3"
+msgstr ""
+
+#: widgets/star-addons-blog.php:116 widgets/star-addons-demos.php:100
+#: widgets/star-addons-features.php:100
+#: widgets/star-addons-lp-course-category.php:101
+#: widgets/star-addons-lp-course-tag.php:101
+#: widgets/star-addons-lp-courses.php:101
+#: widgets/star-addons-photo-gallery.php:122
+#: widgets/star-addons-photo-gallery.php:142
+#: widgets/star-addons-portfolio.php:101
+#: widgets/star-addons-product-category.php:91
+#: widgets/star-addons-product.php:106 widgets/star-addons-service.php:101
+#: widgets/star-addons-team.php:113 widgets/star-addons-testimonial.php:100
+msgid "4"
+msgstr ""
+
+#: widgets/star-addons-blog.php:128 widgets/star-addons-lp-courses.php:113
+#: widgets/star-addons-product.php:128
+msgid "Choose Category"
+msgstr ""
+
+#: widgets/star-addons-blog.php:137
+msgid "Blog Order By"
+msgstr ""
+
+#: widgets/star-addons-blog.php:140
+#: widgets/star-addons-lp-course-category.php:116
+#: widgets/star-addons-lp-course-tag.php:116
+#: widgets/star-addons-lp-courses.php:138 widgets/star-addons-portfolio.php:116
+#: widgets/star-addons-product-category.php:107
+#: widgets/star-addons-product.php:140 widgets/star-addons-service.php:116
+msgid "DESC"
+msgstr ""
+
+#: widgets/star-addons-blog.php:141
+#: widgets/star-addons-lp-course-category.php:117
+#: widgets/star-addons-lp-course-tag.php:117
+#: widgets/star-addons-lp-courses.php:139 widgets/star-addons-portfolio.php:117
+#: widgets/star-addons-product-category.php:108
+#: widgets/star-addons-product.php:141 widgets/star-addons-service.php:117
+msgid "ASC"
+msgstr ""
+
+#: widgets/star-addons-blog.php:150 widgets/star-addons-lp-courses.php:148
+#: widgets/star-addons-portfolio.php:126
+#: widgets/star-addons-product-category.php:117
+#: widgets/star-addons-product.php:150 widgets/star-addons-service.php:126
+msgid "Count"
+msgstr ""
+
+#: widgets/star-addons-blog.php:159
+msgid "Post Info"
+msgstr ""
+
+#: widgets/star-addons-blog.php:162
+#: widgets/star-addons-lp-course-category.php:141
+#: widgets/star-addons-lp-course-tag.php:141
+#: widgets/star-addons-product.php:162 widgets/star-addons-product.php:175
+msgid "Show"
+msgstr ""
+
+#: widgets/star-addons-blog.php:163
+#: widgets/star-addons-lp-course-category.php:142
+#: widgets/star-addons-lp-course-tag.php:142
+#: widgets/star-addons-product.php:163 widgets/star-addons-product.php:176
+msgid "Hide"
+msgstr ""
+
+#: widgets/star-addons-blog.php:172
+msgid "Category Label"
+msgstr ""
+
+#: widgets/star-addons-blog.php:174
+msgid "Category:"
+msgstr ""
+
+#: widgets/star-addons-blog.php:184
+msgid "Date Label"
+msgstr ""
+
+#: widgets/star-addons-blog.php:186
+msgid "Date:"
+msgstr ""
+
+#: widgets/star-addons-blog.php:196
+msgid "Read More Button"
+msgstr ""
+
+#: widgets/star-addons-blog.php:198
+msgid "Read More"
+msgstr ""
+
+#: widgets/star-addons-blog.php:205 widgets/star-addons-portfolio.php:135
+#: widgets/star-addons-service.php:135
+msgid "Show Pagination?"
+msgstr ""
+
+#: widgets/star-addons-blog.php:244
+msgid "View All Posts"
+msgstr ""
+
+#: widgets/star-addons-blog.php:336 widgets/star-addons-contact.php:228
+#: widgets/star-addons-demos.php:164 widgets/star-addons-features.php:154
+#: widgets/star-addons-lp-course-category.php:153
+#: widgets/star-addons-lp-course-tag.php:153
+#: widgets/star-addons-lp-courses.php:282 widgets/star-addons-team.php:314
+#: widgets/star-addons-testimonial.php:185
+msgid "Section Style"
+msgstr ""
+
+#: widgets/star-addons-blog.php:344 widgets/star-addons-contact.php:236
+#: widgets/star-addons-demos.php:172 widgets/star-addons-features.php:162
+#: widgets/star-addons-lp-course-category.php:161
+#: widgets/star-addons-lp-course-tag.php:161
+#: widgets/star-addons-lp-courses.php:290 widgets/star-addons-team.php:322
+#: widgets/star-addons-testimonial.php:193
+msgid "Section Title Color"
+msgstr ""
+
+#: widgets/star-addons-blog.php:355 widgets/star-addons-contact.php:247
+#: widgets/star-addons-demos.php:183 widgets/star-addons-features.php:173
+#: widgets/star-addons-lp-course-category.php:172
+#: widgets/star-addons-lp-course-tag.php:172
+#: widgets/star-addons-lp-courses.php:301 widgets/star-addons-team.php:333
+#: widgets/star-addons-testimonial.php:204
+msgid "Section Description Color"
+msgstr ""
+
+#: widgets/star-addons-blog.php:368
+msgid "Blog Style"
+msgstr ""
+
+#: widgets/star-addons-blog.php:376
+msgid "Blog Image Height"
+msgstr ""
+
+#: widgets/star-addons-blog.php:393
+msgid "Blog Image Width"
+msgstr ""
+
+#: widgets/star-addons-blog.php:410
+msgid "Blog Title Color"
+msgstr ""
+
+#: widgets/star-addons-blog.php:421
+msgid "Blog Title Hover Color"
+msgstr ""
+
+#: widgets/star-addons-blog.php:432
+msgid "Blog Link Color"
+msgstr ""
+
+#: widgets/star-addons-blog.php:443
+msgid "Blog Link Hover Color"
+msgstr ""
+
+#: widgets/star-addons-blog.php:454
+msgid "Blog Slider Dots Color"
+msgstr ""
+
+#: widgets/star-addons-blog.php:469
+msgid "Blog Pagination Link Color"
+msgstr ""
+
+#: widgets/star-addons-blog.php:519 widgets/star-addons-contact.php:409
+#: widgets/star-addons-lp-courses.php:457 widgets/star-addons-slider.php:270
+msgid "Button Border Color"
+msgstr ""
+
+#: widgets/star-addons-blog.php:541 widgets/star-addons-contact.php:442
+#: widgets/star-addons-lp-courses.php:479 widgets/star-addons-slider.php:303
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: widgets/star-addons-call-to-action.php:32
+msgid "Call To Action Content"
+msgstr ""
+
+#: widgets/star-addons-call-to-action.php:40
+msgid "Call To Action Title"
+msgstr ""
+
+#: widgets/star-addons-call-to-action.php:44
+msgid "Let’s Start Your Business Today!"
+msgstr ""
+
+#: widgets/star-addons-call-to-action.php:51
+msgid "Call To Action Description"
+msgstr ""
+
+#: widgets/star-addons-call-to-action.php:55
+msgid ""
+"Start working with star addons, the impressive design, powerful features, "
+"and easy customization make website building faster, easier, and more "
+"professional than ever."
+msgstr ""
+
+#: widgets/star-addons-call-to-action.php:96
+msgid "Purchase Now"
+msgstr ""
+
+#: widgets/star-addons-call-to-action.php:188
+msgid "Call To Action Style"
+msgstr ""
+
+#: widgets/star-addons-call-to-action.php:196
+msgid "Call To Action Title Color"
+msgstr ""
+
+#: widgets/star-addons-call-to-action.php:207
+msgid "Call To Action Description Color"
+msgstr ""
+
+#: widgets/star-addons-coming-soon.php:32
+msgid "Coming Soon Content"
+msgstr ""
+
+#: widgets/star-addons-coming-soon.php:40
+msgid "Coming Soon Image"
+msgstr ""
+
+#: widgets/star-addons-coming-soon.php:52
+msgid "Coming Soon Subtitle"
+msgstr ""
+
+#: widgets/star-addons-coming-soon.php:54 widgets/star-addons-portfolio.php:42
+#: widgets/star-addons-service.php:42 widgets/star-addons-slider.php:44
+msgid "Subtitle"
+msgstr ""
+
+#: widgets/star-addons-coming-soon.php:62
+msgid "Coming Soon Title"
+msgstr ""
+
+#: widgets/star-addons-coming-soon.php:65
+msgid "We Are Launching Soon"
+msgstr ""
+
+#: widgets/star-addons-coming-soon.php:72
+msgid "Coming Soon Date"
+msgstr ""
+
+#: widgets/star-addons-coming-soon.php:93
+msgid "Coming Soon Button"
+msgstr ""
+
+#: widgets/star-addons-coming-soon.php:115
+msgid "Homepage"
+msgstr ""
+
+#: widgets/star-addons-coming-soon.php:125
+#: widgets/star-addons-video-gallery.php:134
+msgid "Icon Type"
+msgstr ""
+
+#: widgets/star-addons-coming-soon.php:130
+#: widgets/star-addons-video-gallery.php:139
+msgid "Library"
+msgstr ""
+
+#: widgets/star-addons-contact.php:16
+msgid "Contact Form 7"
+msgstr ""
+
+#: widgets/star-addons-contact.php:32
+msgid "Contact Section"
+msgstr ""
+
+#: widgets/star-addons-contact.php:44
+msgid "Contact Us"
+msgstr ""
+
+#: widgets/star-addons-contact.php:55 widgets/star-addons-team.php:55
+#: widgets/star-addons-testimonial.php:55
+#: widgets/star-addons-testimonial.php:161
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse "
+"ultrices gravida."
+msgstr ""
+
+#: widgets/star-addons-contact.php:74
+msgid "Contact Info"
+msgstr ""
+
+#: widgets/star-addons-contact.php:82
+msgid "Contact Info Title"
+msgstr ""
+
+#: widgets/star-addons-contact.php:86
+msgid "Get in touch"
+msgstr ""
+
+#: widgets/star-addons-contact.php:94 widgets/star-addons-features.php:114
+#: widgets/star-addons-testimonial.php:144
+msgid "Icon"
+msgstr ""
+
+#: widgets/star-addons-contact.php:117 widgets/star-addons-contact.php:119
+msgid "Content"
+msgstr ""
+
+#: widgets/star-addons-contact.php:121
+msgid "175 5th Ave, New York, NY 10010, United States"
+msgstr ""
+
+#: widgets/star-addons-contact.php:128
+msgid "Single Contact Info"
+msgstr ""
+
+#: widgets/star-addons-contact.php:133
+msgid "Single Contact #1"
+msgstr ""
+
+#: widgets/star-addons-contact.php:134
+msgid "Single Contact Content"
+msgstr ""
+
+#: widgets/star-addons-contact.php:146
+msgid "Contact Form"
+msgstr ""
+
+#: widgets/star-addons-contact.php:154
+msgid "Contact Form Title"
+msgstr ""
+
+#: widgets/star-addons-contact.php:158
+msgid "Drop us a message"
+msgstr ""
+
+#: widgets/star-addons-contact.php:165
+msgid "Form Type"
+msgstr ""
+
+#: widgets/star-addons-contact.php:169
+msgid "Dropdown"
+msgstr ""
+
+#: widgets/star-addons-contact.php:170 widgets/star-addons-contact.php:196
+msgid "Shortcode"
+msgstr ""
+
+#: widgets/star-addons-contact.php:179
+msgid "Select Form"
+msgstr ""
+
+#: widgets/star-addons-contact.php:193
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: widgets/star-addons-contact.php:208
+msgid "Google Map"
+msgstr ""
+
+#: widgets/star-addons-contact.php:216
+msgid "Google Map Embed Code"
+msgstr ""
+
+#: widgets/star-addons-contact.php:218
+msgid "Embed Code"
+msgstr ""
+
+#: widgets/star-addons-contact.php:219
+msgid ""
+"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!"
+"1d3022.9401047993993!2d-73.99173408522613!3d40.74134344375791!2m3!1f0!2f0!"
+"3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a3f79e5b77%3A0x25011fc87ca4dae!"
+"2s175%205th%20Ave%2C%20New%20York%2C%20NY%2010010%2C%20USA!5e0!3m2!1sen!2sbd!"
+"4v1633785743068!5m2!1sen!2sbd\" width=\"600\" height=\"450\" style="
+"\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>"
+msgstr ""
+
+#: widgets/star-addons-contact.php:260
+msgid "Info Style"
+msgstr ""
+
+#: widgets/star-addons-contact.php:268 widgets/star-addons-contact.php:322
+msgid "Heading Color"
+msgstr ""
+
+#: widgets/star-addons-contact.php:279
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/star-addons-contact.php:290
+msgid "Title Color"
+msgstr ""
+
+#: widgets/star-addons-contact.php:301
+msgid "Data Color"
+msgstr ""
+
+#: widgets/star-addons-contact.php:314
+msgid "Form Style"
+msgstr ""
+
+#: widgets/star-addons-contact.php:333
+msgid "Label Color"
+msgstr ""
+
+#: widgets/star-addons-contact.php:344
+msgid "Placeholder Color"
+msgstr ""
+
+#: widgets/star-addons-contact.php:355
+msgid "Field Background Color"
+msgstr ""
+
+#: widgets/star-addons-contact.php:366
+msgid "Field Foucs Border Color"
+msgstr ""
+
+#: widgets/star-addons-demos.php:32
+msgid "Demos Section"
+msgstr ""
+
+#: widgets/star-addons-demos.php:44
+msgid "Get Started with Pre-made Demos"
+msgstr ""
+
+#: widgets/star-addons-demos.php:55
+msgid ""
+"We provided lots of widgets in multiple fields. All of these are 100% mobile "
+"responsive, easy to use, and customizable."
+msgstr ""
+
+#: widgets/star-addons-demos.php:74
+msgid "Demos Content"
+msgstr ""
+
+#: widgets/star-addons-demos.php:82
+msgid "Demos Layout"
+msgstr ""
+
+#: widgets/star-addons-demos.php:95
+msgid "Demos Column"
+msgstr ""
+
+#: widgets/star-addons-demos.php:124 widgets/star-addons-features.php:126
+#: widgets/star-addons-team.php:137 widgets/star-addons-testimonial.php:124
+msgid "Name"
+msgstr ""
+
+#: widgets/star-addons-demos.php:128
+msgid "Name of widget"
+msgstr ""
+
+#: widgets/star-addons-demos.php:134 widgets/star-addons-footer.php:103
+#: widgets/star-addons-footer.php:154 widgets/star-addons-footer.php:167
+#: widgets/star-addons-video-gallery.php:191
+#: widgets/star-addons-video-gallery.php:205
+#: widgets/star-addons-video-gallery.php:244
+msgid "Link"
+msgstr ""
+
+#: widgets/star-addons-demos.php:147
+msgid "Single Demos"
+msgstr ""
+
+#: widgets/star-addons-demos.php:152
+msgid "Single Demos #1"
+msgstr ""
+
+#: widgets/star-addons-demos.php:153
+msgid "Single Demos Content"
+msgstr ""
+
+#: widgets/star-addons-demos.php:196
+msgid "Demos Style"
+msgstr ""
+
+#: widgets/star-addons-demos.php:204
+msgid "Demos Name Color"
+msgstr ""
+
+#: widgets/star-addons-demos.php:215
+msgid "Demos Image Height"
+msgstr ""
+
+#: widgets/star-addons-demos.php:232
+msgid "Demos Image Width"
+msgstr ""
+
+#: widgets/star-addons-faq.php:31
+msgid "FAQ Section"
+msgstr ""
+
+#: widgets/star-addons-faq.php:42 widgets/star-addons-faq.php:53
+#: widgets/star-addons-faq.php:97 widgets/star-addons-faq.php:107
+#: widgets/star-addons-faq.php:135 widgets/star-addons-faq.php:145
+#: widgets/star-addons-portfolio.php:53 widgets/star-addons-portfolio.php:64
+#: widgets/star-addons-pricing.php:138 widgets/star-addons-pricing.php:149
+#: widgets/star-addons-pricing.php:268 widgets/star-addons-pricing.php:279
+#: widgets/star-addons-product-category.php:43
+#: widgets/star-addons-product-category.php:54
+#: widgets/star-addons-product.php:53 widgets/star-addons-service.php:53
+#: widgets/star-addons-service.php:64
+msgid "This field supports all HTML tag"
+msgstr ""
+
+#: widgets/star-addons-faq.php:54
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. ipsum suspendisse."
+msgstr ""
+
+#: widgets/star-addons-faq.php:63
+msgid "FAQ Content"
+msgstr ""
+
+#: widgets/star-addons-faq.php:71
+msgid "Icon Background Color"
+msgstr ""
+
+#: widgets/star-addons-faq.php:82
+msgid "Title Background Color"
+msgstr ""
+
+#: widgets/star-addons-faq.php:98
+msgid "What do we mean by business?"
+msgstr ""
+
+#: widgets/star-addons-faq.php:108 widgets/star-addons-faq.php:146
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, beatae, "
+"similique vel officia laboriosam autem aperiam distinctio fugiat a "
+"repudiandae nihil quis nesciunt hic sit. Facere animi voluptate nobis "
+"asperiores quis nesciunt hic sit. Facere animi voluptate nobis ipsum dolor "
+"sit amet, consectetur adipisicing elit. Aut, beatae, similique vel officia "
+"laboriosam laboriosam autem aperiam distinctio fugiat."
+msgstr ""
+
+#: widgets/star-addons-faq.php:115
+msgid "Single FAQ One"
+msgstr ""
+
+#: widgets/star-addons-faq.php:120 widgets/star-addons-faq.php:158
+msgid "Single FAQ #1"
+msgstr ""
+
+#: widgets/star-addons-faq.php:121 widgets/star-addons-faq.php:159
+msgid "SingleFAQ Content"
+msgstr ""
+
+#: widgets/star-addons-faq.php:136
+msgid "Where should my business be involved?"
+msgstr ""
+
+#: widgets/star-addons-faq.php:153
+msgid "Single FAQ Two"
+msgstr ""
+
+#: widgets/star-addons-features.php:32
+msgid "Features Section"
+msgstr ""
+
+#: widgets/star-addons-features.php:44
+msgid "We have Exellent Features"
+msgstr ""
+
+#: widgets/star-addons-features.php:55
+msgid ""
+"You will like all of the features in our plugin. 100% guaranteed "
+"satisfaction."
+msgstr ""
+
+#: widgets/star-addons-features.php:74
+msgid "Features Content"
+msgstr ""
+
+#: widgets/star-addons-features.php:82
+msgid "Features Layout"
+msgstr ""
+
+#: widgets/star-addons-features.php:95
+msgid "Features Column"
+msgstr ""
+
+#: widgets/star-addons-features.php:130
+msgid "Name of feature"
+msgstr ""
+
+#: widgets/star-addons-features.php:137
+msgid "Single Features"
+msgstr ""
+
+#: widgets/star-addons-features.php:142
+msgid "Single Features #1"
+msgstr ""
+
+#: widgets/star-addons-features.php:143
+msgid "Single Features Content"
+msgstr ""
+
+#: widgets/star-addons-features.php:186
+msgid "Features Style"
+msgstr ""
+
+#: widgets/star-addons-features.php:194
+msgid "Features Name Color"
+msgstr ""
+
+#: widgets/star-addons-features.php:205
+msgid "Features Icon Area Height"
+msgstr ""
+
+#: widgets/star-addons-features.php:222
+msgid "Features Icon Area Width"
+msgstr ""
+
+#: widgets/star-addons-features.php:239
+msgid "Features Icon Size"
+msgstr ""
+
+#: widgets/star-addons-footer.php:41
+msgid "Enable Footer Area"
+msgstr ""
+
+#: widgets/star-addons-footer.php:54
+msgid "Enable Copyright Area"
+msgstr ""
+
+#: widgets/star-addons-footer.php:67
+msgid "Enable Go To Top"
+msgstr ""
+
+#: widgets/star-addons-footer.php:83
+msgid "Copyright"
+msgstr ""
+
+#: widgets/star-addons-footer.php:90
+msgid "Copyright Text"
+msgstr ""
+
+#: widgets/star-addons-footer.php:93
+msgid "Copyright @ 2023 Star Addons is Proudly Powered by MhrTheme."
+msgstr ""
+
+#: widgets/star-addons-footer.php:110
+msgid "Footer Link Enable?"
+msgstr ""
+
+#: widgets/star-addons-footer.php:122
+msgid "First Link Text"
+msgstr ""
+
+#: widgets/star-addons-footer.php:125
+msgid "Privacy Policy"
+msgstr ""
+
+#: widgets/star-addons-footer.php:135
+msgid "First Link URL"
+msgstr ""
+
+#: widgets/star-addons-footer.php:152
+msgid "Second Link Text"
+msgstr ""
+
+#: widgets/star-addons-footer.php:155
+msgid "Terms & Conditions"
+msgstr ""
+
+#: widgets/star-addons-footer.php:165
+msgid "Second Link URL"
+msgstr ""
+
+#: widgets/star-addons-footer.php:184
+msgid "Footer Style"
+msgstr ""
+
+#: widgets/star-addons-footer.php:195
+msgid "Footer Background Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:206
+msgid "Footer Heading Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:217
+msgid "Footer Link Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:228
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:239
+msgid "Footer Icon Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:252 widgets/star-addons-team.php:424
+msgid "Social Style"
+msgstr ""
+
+#: widgets/star-addons-footer.php:263
+msgid "Social Background Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:274 widgets/star-addons-team.php:443
+msgid "Social Icon Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:285
+msgid "Social Background Hover Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:296 widgets/star-addons-team.php:465
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:309
+msgid "Copyright Style"
+msgstr ""
+
+#: widgets/star-addons-footer.php:320
+msgid "Copyright Area Background Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:331
+msgid "Copyright Area Link Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:342
+msgid "Copyright Area Link Hover Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:355
+msgid "Go Top Style"
+msgstr ""
+
+#: widgets/star-addons-footer.php:366
+msgid "Go Top Background Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:377
+msgid "Go Top Icon Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:388
+msgid "Go Top Background Hover Color"
+msgstr ""
+
+#: widgets/star-addons-footer.php:399
+msgid "Go Top Icon Hover Color"
+msgstr ""
+
+#: widgets/star-addons-header.php:41
+msgid "Enable Header"
+msgstr ""
+
+#: widgets/star-addons-header.php:71
+msgid "Get Started"
+msgstr ""
+
+#: widgets/star-addons-header.php:170
+msgid "Menu"
+msgstr ""
+
+#: widgets/star-addons-header.php:176
+msgid "Select Menu"
+msgstr ""
+
+#: widgets/star-addons-header.php:188
+msgid "Logo"
+msgstr ""
+
+#: widgets/star-addons-header.php:195
+msgid "Main Logo"
+msgstr ""
+
+#: widgets/star-addons-header.php:205
+msgid "Desktop Logo Height"
+msgstr ""
+
+#: widgets/star-addons-header.php:222
+msgid "Desktop Logo Width"
+msgstr ""
+
+#: widgets/star-addons-header.php:239
+msgid "Mobile Logo Height"
+msgstr ""
+
+#: widgets/star-addons-header.php:256
+msgid "Mobile Logo Width"
+msgstr ""
+
+#: widgets/star-addons-header.php:276 widgets/star-addons-header.php:283
+msgid "Sticky"
+msgstr ""
+
+#: widgets/star-addons-header.php:298
+msgid "Breadcrumb"
+msgstr ""
+
+#: widgets/star-addons-header.php:305
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: widgets/star-addons-header.php:330
+msgid "Menu Style"
+msgstr ""
+
+#: widgets/star-addons-header.php:341
+msgid "Navbar Background Color"
+msgstr ""
+
+#: widgets/star-addons-header.php:352
+msgid "Sticky Navbar Background Color"
+msgstr ""
+
+#: widgets/star-addons-header.php:363
+msgid "Navbar Active Color"
+msgstr ""
+
+#: widgets/star-addons-header.php:374
+msgid "Navbar Item Color"
+msgstr ""
+
+#: widgets/star-addons-header.php:385
+msgid "Navbar Item Hover Color"
+msgstr ""
+
+#: widgets/star-addons-header.php:456
+msgid "Breadcrumb Style"
+msgstr ""
+
+#: widgets/star-addons-header.php:467
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: widgets/star-addons-header.php:478
+msgid "Breadcrumb Link Hover Color"
+msgstr ""
+
+#: widgets/star-addons-header.php:511
+msgid "<style>.star-navbar-area.is-sticky{display:block !important;}</style>"
+msgstr ""
+
+#: widgets/star-addons-header.php:513
+msgid "<style>.star-navbar-area.is-sticky{display:none !important;}</style>"
+msgstr ""
+
+#: widgets/star-addons-header.php:607
+msgid "Home"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:16
+msgid "LearnPress Categories"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:44
+msgid "All Course Categories"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:74
+msgid "Categories Content"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:82
+msgid "Categories Type"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:86
+#: widgets/star-addons-lp-course-tag.php:86
+msgid "Slide"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:95
+msgid "Select Categories Column"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:113
+msgid "Categories Order By"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:126
+#: widgets/star-addons-lp-course-tag.php:126
+msgid "Hide Empty Category?"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:138
+msgid "Show Categories Count"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:185
+msgid "Categories Style"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:193
+msgid "Category Box Background Color"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:204
+msgid "Categories Image Height"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:221
+msgid "Categories Image Width"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:238
+msgid "Categories Title Color"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:249
+msgid "Categories Title Hover Color"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:281
+#: widgets/star-addons-lp-course-tag.php:281
+#: widgets/star-addons-lp-courses.php:520
+msgid "Activate LearnPress"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:284
+#: widgets/star-addons-lp-course-tag.php:284
+#: widgets/star-addons-lp-courses.php:523
+msgid "Install LearnPress"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:290
+#: widgets/star-addons-lp-course-tag.php:290
+#: widgets/star-addons-lp-courses.php:529
+msgid "Please activate the LearnPress plugin"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:292
+#: widgets/star-addons-lp-course-tag.php:292
+#: widgets/star-addons-lp-courses.php:531
+msgid "Please Install the LearnPress plugin"
+msgstr ""
+
+#: widgets/star-addons-lp-course-category.php:334
+#: widgets/star-addons-lp-course-tag.php:335
+msgid " ("
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:16
+msgid "LearnPress Tags"
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:44
+msgid "All Course Tags"
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:74
+msgid "Tags Content"
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:82
+msgid "Tags Type"
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:95
+msgid "Select Tags Column"
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:113
+msgid "Tags Order By"
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:138
+msgid "Show Tags Count"
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:185
+msgid "Tags Style"
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:193
+msgid "Tag Box Background Color"
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:204
+msgid "Tags Image Height"
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:221
+msgid "Tags Image Width"
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:238
+msgid "Tags Title Color"
+msgstr ""
+
+#: widgets/star-addons-lp-course-tag.php:249
+msgid "Tags Title Hover Color"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:16
+msgid "LearnPress Courses"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:44
+msgid "Our Featured Courses"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:74
+msgid "Course Content"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:82
+msgid "Select Course Style"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:86 widgets/star-addons-product.php:76
+msgid "List"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:95
+msgid "Select Course Column"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:122
+msgid "Courses Filter By"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:125
+msgid "Recent"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:126
+msgid "Featured"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:135
+msgid "Courses Order By"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:157
+msgid "Instructor Label"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:159
+msgid "Instructor"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:314
+msgid "Course Style"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:322
+msgid "Course Box Background Color"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:333
+msgid "Course Image Height"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:350
+msgid "Course Image Width"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:367
+msgid "Course Category Color"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:378
+msgid "Course Category Background Color"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:389
+msgid "Course Title Color"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:400
+msgid "Course Title Hover Color"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:411
+msgid "Course Instructor Color"
+msgstr ""
+
+#: widgets/star-addons-lp-courses.php:657
+msgid "Uncategorized"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:40
+msgid "Select Photo Gallery Style"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:46
+#: widgets/star-addons-video-gallery.php:45
+msgid "Style 03"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:47
+#: widgets/star-addons-video-gallery.php:46
+msgid "Style 04"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:48
+#: widgets/star-addons-video-gallery.php:47
+msgid "Style 05"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:49
+#: widgets/star-addons-video-gallery.php:48
+msgid "Style 06"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:50
+#: widgets/star-addons-video-gallery.php:49
+msgid "Style 07"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:51
+msgid "Style 08"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:62
+msgid "Photo Gallery Section"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:74
+#: widgets/star-addons-video-gallery.php:72
+msgid "Design 1"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:94
+msgid "Photo Gallery Content"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:102
+msgid "Select Gallery Type"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:107
+msgid "Mansory"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:116
+#: widgets/star-addons-photo-gallery.php:136
+msgid "Select Photo Gallery Column"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:123
+#: widgets/star-addons-photo-gallery.php:143
+msgid "6"
+msgstr ""
+
+#: widgets/star-addons-photo-gallery.php:154
+msgid "Gallery"
+msgstr ""
+
+#: widgets/star-addons-portfolio.php:40 widgets/star-addons-service.php:40
+msgid "Section Subtitle"
+msgstr ""
+
+#: widgets/star-addons-portfolio.php:54
+msgid "Our Recent Works"
+msgstr ""
+
+#: widgets/star-addons-portfolio.php:65 widgets/star-addons-service.php:65
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore perferendis "
+"deleniti illum necessitati voluptates ipsum, ratione dolorum veritatis minus "
+"mollitia placeat."
+msgstr ""
+
+#: widgets/star-addons-portfolio.php:74
+msgid "Portfolio Content"
+msgstr ""
+
+#: widgets/star-addons-portfolio.php:82
+msgid "Select Portfolio Style"
+msgstr ""
+
+#: widgets/star-addons-portfolio.php:95
+msgid "Select Portfolio Column"
+msgstr ""
+
+#: widgets/star-addons-portfolio.php:113
+msgid "Portfolio Order By"
+msgstr ""
+
+#: widgets/star-addons-portfolio.php:174
+msgid "View All Portfolio"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:32
+msgid "Pricing Section Area"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:40
+msgid "Pricing Top Title"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:43
+msgid "Choose Plan"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:50 widgets/star-addons-pricing.php:125
+#: widgets/star-addons-pricing.php:255
+msgid "Pricing Title"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:53
+msgid "Pricing Package"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:60 widgets/star-addons-pricing.php:135
+#: widgets/star-addons-pricing.php:265
+msgid "Pricing Description"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:63
+#: widgets/star-addons-product-category.php:55
+#: widgets/star-addons-product.php:54
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incidiunt labore et dolore magna aliqua. Quis ipsum suspendisse "
+"ultrices gravida."
+msgstr ""
+
+#: widgets/star-addons-pricing.php:70
+msgid "Pricing Area Background Color"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:83
+msgid "Pricing Tab Area"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:91
+msgid "First Tab Title"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:95
+msgid "Monthly Plan"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:102
+msgid "Second Tab Title"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:106
+msgid "Yearly Plan"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:115 widgets/star-addons-pricing.php:117
+#: widgets/star-addons-pricing.php:245 widgets/star-addons-pricing.php:247
+msgid "Price"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:118
+msgid "$19/m"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:128 widgets/star-addons-pricing.php:258
+msgid "Starter"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:139 widgets/star-addons-pricing.php:269
+msgid "Get your services up and running"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:146 widgets/star-addons-pricing.php:276
+msgid "Pricing Features"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:170 widgets/star-addons-pricing.php:300
+msgid "Book Now"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:233 widgets/star-addons-pricing.php:363
+msgid "Pricing #1"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:234 widgets/star-addons-pricing.php:364
+msgid "Pricing Content"
+msgstr ""
+
+#: widgets/star-addons-pricing.php:248
+msgid "$99/y"
+msgstr ""
+
+#: widgets/star-addons-product-category.php:44
+msgid "Our Product Categories"
+msgstr ""
+
+#: widgets/star-addons-product-category.php:64
+msgid "Category Content"
+msgstr ""
+
+#: widgets/star-addons-product-category.php:72
+msgid "Select Category Style"
+msgstr ""
+
+#: widgets/star-addons-product-category.php:85
+msgid "Select Category Column"
+msgstr ""
+
+#: widgets/star-addons-product-category.php:92
+msgid "5"
+msgstr ""
+
+#: widgets/star-addons-product-category.php:104
+msgid "Category Order By"
+msgstr ""
+
+#: widgets/star-addons-product-category.php:149
+#: widgets/star-addons-product.php:300
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: widgets/star-addons-product-category.php:152
+#: widgets/star-addons-product.php:303
+msgid "Install WooCommerce"
+msgstr ""
+
+#: widgets/star-addons-product-category.php:158
+#: widgets/star-addons-product.php:309
+msgid "Please activate the WooCommerce plugin"
+msgstr ""
+
+#: widgets/star-addons-product-category.php:160
+#: widgets/star-addons-product.php:311
+msgid "Please Install the WooCommerce plugin"
+msgstr ""
+
+#: widgets/star-addons-product.php:43
+msgid "Our Featured Products"
+msgstr ""
+
+#: widgets/star-addons-product.php:63
+msgid "Product Content"
+msgstr ""
+
+#: widgets/star-addons-product.php:71
+msgid "Select Product Style"
+msgstr ""
+
+#: widgets/star-addons-product.php:85
+msgid "Select Product Sidebar"
+msgstr ""
+
+#: widgets/star-addons-product.php:100
+msgid "Select Product Column"
+msgstr ""
+
+#: widgets/star-addons-product.php:118
+msgid "Unique Widget ID"
+msgstr ""
+
+#: widgets/star-addons-product.php:120
+msgid "products-1 or products-2"
+msgstr ""
+
+#: widgets/star-addons-product.php:121
+msgid "If you want to show more widgets on the same page."
+msgstr ""
+
+#: widgets/star-addons-product.php:137
+msgid "Product Order By"
+msgstr ""
+
+#: widgets/star-addons-product.php:159
+msgid "Show Additional Buttons"
+msgstr ""
+
+#: widgets/star-addons-product.php:172
+msgid "Show Pagination"
+msgstr ""
+
+#: widgets/star-addons-product.php:212
+msgid "View All Products"
+msgstr ""
+
+#: widgets/star-addons-service.php:54
+msgid "Explore Our Services"
+msgstr ""
+
+#: widgets/star-addons-service.php:74
+msgid "Service Content"
+msgstr ""
+
+#: widgets/star-addons-service.php:82
+msgid "Select Service Style"
+msgstr ""
+
+#: widgets/star-addons-service.php:95
+msgid "Select Service Column"
+msgstr ""
+
+#: widgets/star-addons-service.php:113
+msgid "Service Order By"
+msgstr ""
+
+#: widgets/star-addons-service.php:174
+msgid "View All Services"
+msgstr ""
+
+#: widgets/star-addons-slider.php:32 widgets/star-addons-slider.php:186
+msgid "Slider Content"
+msgstr ""
+
+#: widgets/star-addons-slider.php:42
+msgid "Slider Subtitle"
+msgstr ""
+
+#: widgets/star-addons-slider.php:46
+msgid "Welcome to our versity"
+msgstr ""
+
+#: widgets/star-addons-slider.php:53
+msgid "Slider Title"
+msgstr ""
+
+#: widgets/star-addons-slider.php:64
+msgid "Slider Image"
+msgstr ""
+
+#: widgets/star-addons-slider.php:185
+msgid "Slider #1"
+msgstr ""
+
+#: widgets/star-addons-slider.php:197
+msgid "Slider Style"
+msgstr ""
+
+#: widgets/star-addons-slider.php:205
+msgid "Slider Subtitle Color"
+msgstr ""
+
+#: widgets/star-addons-slider.php:216
+msgid "Slider Title Color"
+msgstr ""
+
+#: widgets/star-addons-slider.php:227
+msgid "Arrow Background Color"
+msgstr ""
+
+#: widgets/star-addons-slider.php:238
+msgid "Arrow Background Hover Color"
+msgstr ""
+
+#: widgets/star-addons-team.php:16
+msgid "Team Member"
+msgstr ""
+
+#: widgets/star-addons-team.php:32
+msgid "Team Member Section"
+msgstr ""
+
+#: widgets/star-addons-team.php:44
+msgid "Featured Team Member"
+msgstr ""
+
+#: widgets/star-addons-team.php:74
+msgid "Team Member Content"
+msgstr ""
+
+#: widgets/star-addons-team.php:82
+msgid "Team Member Style"
+msgstr ""
+
+#: widgets/star-addons-team.php:95
+msgid "Team Layout"
+msgstr ""
+
+#: widgets/star-addons-team.php:108
+msgid "Team Member Column"
+msgstr ""
+
+#: widgets/star-addons-team.php:141 widgets/star-addons-testimonial.php:128
+msgid "Adam Smith"
+msgstr ""
+
+#: widgets/star-addons-team.php:147 widgets/star-addons-team.php:149
+#: widgets/star-addons-testimonial.php:134
+#: widgets/star-addons-testimonial.php:136
+msgid "Designation"
+msgstr ""
+
+#: widgets/star-addons-team.php:150 widgets/star-addons-testimonial.php:137
+msgid "English Lecturer"
+msgstr ""
+
+#: widgets/star-addons-team.php:157
+msgid "Want to Show Social?"
+msgstr ""
+
+#: widgets/star-addons-team.php:169
+msgid "Social Icon 1"
+msgstr ""
+
+#: widgets/star-addons-team.php:185
+msgid "Social Link 1"
+msgstr ""
+
+#: widgets/star-addons-team.php:201
+msgid "Social Icon 2"
+msgstr ""
+
+#: widgets/star-addons-team.php:217
+msgid "Social Link 2"
+msgstr ""
+
+#: widgets/star-addons-team.php:233
+msgid "Social Icon 3"
+msgstr ""
+
+#: widgets/star-addons-team.php:249
+msgid "Social Link 3"
+msgstr ""
+
+#: widgets/star-addons-team.php:265
+msgid "Social Icon 4"
+msgstr ""
+
+#: widgets/star-addons-team.php:281
+msgid "Social Link 4"
+msgstr ""
+
+#: widgets/star-addons-team.php:297
+msgid "Single Team Member"
+msgstr ""
+
+#: widgets/star-addons-team.php:302
+msgid "Single Team Member #1"
+msgstr ""
+
+#: widgets/star-addons-team.php:303
+msgid "Single Team Member Content"
+msgstr ""
+
+#: widgets/star-addons-team.php:346
+msgid "Team Style"
+msgstr ""
+
+#: widgets/star-addons-team.php:354
+msgid "Team Background Color"
+msgstr ""
+
+#: widgets/star-addons-team.php:366
+msgid "Team Name Color"
+msgstr ""
+
+#: widgets/star-addons-team.php:377
+msgid "Team Designation Color"
+msgstr ""
+
+#: widgets/star-addons-team.php:388
+msgid "Team Image Height"
+msgstr ""
+
+#: widgets/star-addons-team.php:405
+msgid "Team Image Width"
+msgstr ""
+
+#: widgets/star-addons-team.php:432
+msgid "Social Icon Background Color"
+msgstr ""
+
+#: widgets/star-addons-team.php:454
+msgid "Social Icon Background Hover Color"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:32
+msgid "Testimonial Section"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:44
+msgid "Our Featured Testimonial"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:74
+msgid "Testimonial Content"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:82
+#: widgets/star-addons-testimonial.php:217
+msgid "Testimonial Style"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:95
+msgid "Testimonial Column"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:157
+#: widgets/star-addons-testimonial.php:159
+msgid "Comment"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:168
+msgid "Single Testimonial"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:173
+msgid "Single Testimonial #1"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:174
+msgid "Single Testimonial Content"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:225
+msgid "Comment Color"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:236
+msgid "Name Color"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:247
+msgid "Designation Color"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:258
+msgid "Slider Dots Color"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:272
+msgid "Image Style"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:280
+msgid "Image Height"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:297
+msgid "Image Width"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:314
+msgid "Image Border Color"
+msgstr ""
+
+#: widgets/star-addons-testimonial.php:325
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:39
+msgid "Select Video Style"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:60
+msgid "Video Section"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:102
+msgid "Video Content"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:110
+msgid "Video Title"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:114
+msgid "Watch our video"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:121
+msgid "Video Description"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:124
+msgid ""
+"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere "
+"cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper "
+"sit amet ligula. Curabitur non nulla sit amet nisl tempus convallis quis ac "
+"lectus. Donec rutrum congue leo eget malesuada. Praesent sapien massa, "
+"convallis a pellentesque nec, egestas non nisi. Vivamus magna justo, laci "
+"nia eget consectetur sed, convallis at tellus. Curabitur non nulla sit amet "
+"nisl tempus convallis quis ac lectus."
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:148
+#: widgets/star-addons-video-gallery.php:163
+msgid "Video Icon"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:177
+msgid "Source"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:183
+msgid "Self Hosted"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:193
+msgid "Enter your URL (YouTube)"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:207
+msgid "Enter your URL (Vimeo)"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:219
+msgid "External URL"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:231
+msgid "Choose File"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:246
+msgid "Enter your URL"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:259
+msgid "Start Time"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:265
+msgid "Specify a start time (in seconds)"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:275
+msgid "End Time"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:281
+msgid "Specify an end time (in seconds)"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:291
+msgid "Video Background Image"
+msgstr ""
+
+#: widgets/star-addons-video-gallery.php:300
+msgid "Video Shape Image"
+msgstr ""
