@@ -5,7 +5,6 @@
  */
 function star_addons_icons() {
     return [
-        // Box Icons
         'bx bx-share-alt'           => esc_html__( 'Share Alt', 'star-addons-for-elementor' ),
         'bx bxs-map'                => esc_html__( 'Map', 'star-addons-for-elementor' ),
         'bx bx-cube'                => esc_html__( 'Cube', 'star-addons-for-elementor' ),
@@ -108,7 +107,8 @@ function star_addons_icons() {
         'bx bx-id-card'             => esc_html__( 'Id Card', 'star-addons-for-elementor' ), 
         'bx bxs-widget'             => esc_html__( 'Widget', 'star-addons-for-elementor' ),
         'bx bx-trophy'              => esc_html__( 'Trophy', 'star-addons-for-elementor' ),
-        'bx bx-certification'       => esc_html__( 'Certification', 'star-addons-for-elementor' ) 
+        'bx bx-certification'       => esc_html__( 'Certification', 'star-addons-for-elementor' ),
+        'flaticon-bucket'           => esc_html__( 'Bucket', 'star-addons-for-elementor' ) 
     ];
 }
 

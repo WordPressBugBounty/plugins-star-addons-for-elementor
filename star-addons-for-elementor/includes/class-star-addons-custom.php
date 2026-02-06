@@ -247,7 +247,7 @@ function star_addons_get_page_as_list() {
 /**
  * Elementor Version Check For Icon Library
  */
-function star_is_elementor_version($operator = '<', $version = '1.1') {
+function star_is_elementor_version($operator = '<', $version = '1.2') {
 	return defined('ELEMENTOR_VERSION') && version_compare(ELEMENTOR_VERSION, $version, $operator);
 }
 
@@ -260,7 +260,7 @@ function star_addons_render_icon($settings = [], $old_icon_id = 'icon', $new_ico
 
 	$attributes['aria-hidden'] = 'true';
 
-	if (star_is_elementor_version('>=', '1.1') && ($is_new || $migrated)) {
+	if (star_is_elementor_version('>=', '1.2') && ($is_new || $migrated)) {
 		\Elementor\Icons_Manager::render_icon($settings[$new_icon_id], $attributes);
 	} else {
 		if (empty($attributes['class'])) {
@@ -343,14 +343,14 @@ endif;
 
 // Sidebar Register
 function star_addons_sidebar() {
-	register_sidebar(array(
-        'name'          => 'Star Addons Footer',
-        'description'   => __('Add widgets here to appear in your star addons footer', 'star-addons-for-elementor'),
-        'id'            => 'star-addons-footer',
-        'before_title'  => '<h3>',
-        'after_title'   => '</h3>',
-        'before_widget' => '<div class="col-lg-3 col-sm-12 col-md-6"><div class="single-footer-widget">',
-        'after_widget' =>'</div></div>'
+    register_sidebar(array(
+        'name'          => 'Star Addons Blog Sidebar',
+        'description'   => __('Add widgets here to appear in blog sidebar', 'star-addons-for-elementor'),
+        'id'            => 'star-addons-blog-sidebar',
+        'before_widget' => '<section id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</section>',
+		'before_title'  => '<h2 class="widget-title">',
+		'after_title'   => '</h2>'
     ));
     if ( star_addons_plugin_active( 'woocommerce/woocommerce.php' ) ) { 
 	    register_sidebar(array(
@@ -363,6 +363,15 @@ function star_addons_sidebar() {
 			'after_title'   => '</h3>'
 	    ));
     }
+    register_sidebar(array(
+        'name'          => 'Star Addons Footer',
+        'description'   => __('Add widgets here to appear in your star addons footer', 'star-addons-for-elementor'),
+        'id'            => 'star-addons-footer',
+        'before_title'  => '<h3>',
+        'after_title'   => '</h3>',
+        'before_widget' => '<div class="col-lg-3 col-sm-12 col-md-6"><div class="single-footer-widget">',
+        'after_widget' =>'</div></div>'
+    ));
 }
 
 add_action('widgets_init' , 'star_addons_sidebar');

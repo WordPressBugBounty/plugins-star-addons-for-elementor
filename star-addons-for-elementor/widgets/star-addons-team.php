@@ -3,7 +3,7 @@
 /**
  * Elementor Team Widget.
  *
- * @since 1.1
+ * @since 1.2
  */
 
 class Elementor_Team_Widget extends \Elementor\Widget_Base {

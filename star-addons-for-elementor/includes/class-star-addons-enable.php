@@ -1,5 +1,13 @@
 <?php
 
+// Star Addons Widget Multiple Slider
+$star_addons_widget_multiple_slider_enable = (array)get_option('new_settings2');
+if( isset( $star_addons_widget_multiple_slider_enable['star_addons_widget_multiple_slider_enable'] ) ) :
+    $star_addons_widget_multiple_slider_enable_new = $star_addons_widget_multiple_slider_enable['star_addons_widget_multiple_slider_enable'];
+else:
+    $star_addons_widget_multiple_slider_enable_new = '';
+endif;
+
 // Star Addons Widget Slider
 $star_addons_widget_slider_enable = (array)get_option('new_settings2');
 if( isset( $star_addons_widget_slider_enable['star_addons_widget_slider_enable'] ) ) :
@@ -195,4 +203,3 @@ if( isset( $star_addons_widget_coming_enable['star_addons_widget_coming_enable']
 else:
     $star_addons_widget_coming_enable_new = '';
 endif;
-

@@ -4,6 +4,19 @@
 /* Field Callbacks 1 */
 /* ----------------------------------------------------------------------------- */
 
+// Star Addons Widget Multiple Slider
+function star_addons_widget_multiple_slider_enable_callback() { 
+    $star_addons_widget_multiple_slider_enable = (array)get_option('new_settings2');
+    if( isset( $star_addons_widget_multiple_slider_enable['star_addons_widget_multiple_slider_enable'] ) ) :
+        $star_addons_widget_multiple_slider_enable_new = $star_addons_widget_multiple_slider_enable['star_addons_widget_multiple_slider_enable'];
+    else:
+        $star_addons_widget_multiple_slider_enable_new = '';
+    endif;
+    echo __('<input type="checkbox" id="multiple_slider" name="new_settings2[star_addons_widget_multiple_slider_enable]" value="1" '.checked(1, $star_addons_widget_multiple_slider_enable_new, false).'>', 'star-addons-for-elementor').__('Multiple Slider', 'star-addons-for-elementor'); ?>
+    <label for="multiple_slider"></label>
+    <a class="starad-element-live-link" href="https://pages.mhrtheme.com/clump/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
+<?php }
+
 // Star Addons Widget Slider
 function star_addons_widget_slider_enable_callback() { 
     $star_addons_widget_slider_enable = (array)get_option('new_settings2');
@@ -91,9 +104,8 @@ function star_addons_widget_about_enable_callback() {
     else:
         $star_addons_widget_about_enable_new = '';
     endif;
-    echo __('<input type="checkbox" class="disabled" disabled id="about" name="new_settings2[star_addons_widget_about_enable]" value="1" '.checked(1, $star_addons_widget_about_enable_new, false).'>', 'star-addons-for-elementor').__('About', 'star-addons-for-elementor'); ?> 
+    echo __('<input type="checkbox" id="about" name="new_settings2[star_addons_widget_about_enable]" value="1" '.checked(1, $star_addons_widget_about_enable_new, false).'>', 'star-addons-for-elementor').__('About', 'star-addons-for-elementor'); ?>
     <label for="about"></label>
-    <i title="Pro Only" class="bx bx-lock-alt"></i>
     <a class="starad-element-live-link" href="https://star-learn.mhrtheme.com/about-us/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
 <?php }
 
@@ -118,9 +130,8 @@ function star_addons_widget_contact_enable_callback() {
     else:
         $star_addons_widget_contact_enable_new = '';
     endif;
-    echo __('<input type="checkbox" class="disabled" disabled id="contact" name="new_settings2[star_addons_widget_contact_enable]" value="1" '.checked(1, $star_addons_widget_contact_enable_new, false).'>', 'star-addons-for-elementor').__('Contact', 'star-addons-for-elementor'); ?>
+    echo __('<input type="checkbox" id="contact" name="new_settings2[star_addons_widget_contact_enable]" value="1" '.checked(1, $star_addons_widget_contact_enable_new, false).'>', 'star-addons-for-elementor').__('Contact', 'star-addons-for-elementor'); ?>
     <label for="contact"></label>
-    <i title="Pro Only" class="bx bx-lock-alt"></i>
     <a class="starad-element-live-link" href="https://star-learn.mhrtheme.com/contact/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
 <?php }
 
@@ -132,9 +143,8 @@ function star_addons_widget_blog_enable_callback() {
     else:
         $star_addons_widget_blog_enable_new = '';
     endif;
-    echo __('<input type="checkbox" class="disabled" disabled id="blog" name="new_settings2[star_addons_widget_blog_enable]" value="1" '.checked(1, $star_addons_widget_blog_enable_new, false).'>', 'star-addons-for-elementor').__('Blog', 'star-addons-for-elementor'); ?>
+    echo __('<input type="checkbox" id="blog" name="new_settings2[star_addons_widget_blog_enable]" value="1" '.checked(1, $star_addons_widget_blog_enable_new, false).'>', 'star-addons-for-elementor').__('Blog', 'star-addons-for-elementor'); ?>
     <label for="blog"></label>
-    <i title="Pro Only" class="bx bx-lock-alt"></i> 
     <a class="starad-element-live-link" href="https://star-learn.mhrtheme.com/blog/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
 <?php }
 
@@ -146,9 +156,8 @@ function star_addons_widget_header_enable_callback() {
     else:
         $star_addons_widget_header_enable_new = '';
     endif;
-    echo __('<input type="checkbox" class="disabled" disabled id="header" name="new_settings2[star_addons_widget_header_enable]" value="1" '.checked(1, $star_addons_widget_header_enable_new, false).'>', 'star-addons-for-elementor').__('Header', 'star-addons-for-elementor'); ?>
+    echo __('<input type="checkbox" id="header" name="new_settings2[star_addons_widget_header_enable]" value="1" '.checked(1, $star_addons_widget_header_enable_new, false).'>', 'star-addons-for-elementor').__('Header', 'star-addons-for-elementor'); ?>
     <label for="header"></label>
-    <i title="Pro Only" class="bx bx-lock-alt"></i>
     <a class="starad-element-live-link" href="https://star-learn.mhrtheme.com/header/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
 <?php }
 
@@ -160,9 +169,8 @@ function star_addons_widget_footer_enable_callback() {
     else:
         $star_addons_widget_footer_enable_new = '';
     endif;
-    echo __('<input type="checkbox" class="disabled" disabled id="footer" name="new_settings2[star_addons_widget_footer_enable]" value="1" '.checked(1, $star_addons_widget_footer_enable_new, false).'>', 'star-addons-for-elementor').__('Footer', 'star-addons-for-elementor'); ?>
+    echo __('<input type="checkbox" id="footer" name="new_settings2[star_addons_widget_footer_enable]" value="1" '.checked(1, $star_addons_widget_footer_enable_new, false).'>', 'star-addons-for-elementor').__('Footer', 'star-addons-for-elementor'); ?>
     <label for="footer"></label>
-    <i title="Pro Only" class="bx bx-lock-alt"></i>
     <a class="starad-element-live-link" href="https://star-learn.mhrtheme.com/footer/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
 <?php }
 
@@ -213,9 +221,8 @@ function star_addons_widget_photo_enable_callback() {
     else:
         $star_addons_widget_photo_enable_new = '';
     endif;
-    echo __('<input type="checkbox" class="disabled" disabled id="photo" name="new_settings2[star_addons_widget_photo_enable]" value="1" '.checked(1, $star_addons_widget_photo_enable_new, false).'>', 'star-addons-for-elementor').__('PhotoGallery', 'star-addons-for-elementor'); ?>
+    echo __('<input type="checkbox" id="photo" name="new_settings2[star_addons_widget_photo_enable]" value="1" '.checked(1, $star_addons_widget_photo_enable_new, false).'>', 'star-addons-for-elementor').__('PhotoGallery', 'star-addons-for-elementor'); ?>
     <label for="photo"></label>
-    <i title="Pro Only" class="bx bx-lock-alt"></i> 
     <a class="starad-element-live-link" href="https://newsz.mhrtheme.com/photogallery/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
 <?php }
 
@@ -227,9 +234,8 @@ function star_addons_widget_video_enable_callback() {
     else:
         $star_addons_widget_video_enable_new = '';
     endif;
-    echo __('<input type="checkbox" class="disabled" disabled id="video" name="new_settings2[star_addons_widget_video_enable]" value="1" '.checked(1, $star_addons_widget_video_enable_new, false).'>', 'star-addons-for-elementor').__('VideoGallery', 'star-addons-for-elementor'); ?>
+    echo __('<input type="checkbox" id="video" name="new_settings2[star_addons_widget_video_enable]" value="1" '.checked(1, $star_addons_widget_video_enable_new, false).'>', 'star-addons-for-elementor').__('VideoGallery', 'star-addons-for-elementor'); ?>
     <label for="video"></label>
-    <i title="Pro Only" class="bx bx-lock-alt"></i>
     <a class="starad-element-live-link" href="https://newsz.mhrtheme.com/videogallery/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
 <?php }
 
@@ -241,9 +247,8 @@ function star_addons_widget_product_enable_callback() {
     else:
         $star_addons_widget_product_enable_new = '';
     endif;
-    echo __('<input type="checkbox" class="disabled" disabled id="product" name="new_settings2[star_addons_widget_product_enable]" value="1" '.checked(1, $star_addons_widget_product_enable_new, false).'>', 'star-addons-for-elementor').__('Products', 'star-addons-for-elementor'); ?>
+    echo __('<input type="checkbox" id="product" name="new_settings2[star_addons_widget_product_enable]" value="1" '.checked(1, $star_addons_widget_product_enable_new, false).'>', 'star-addons-for-elementor').__('Products', 'star-addons-for-elementor'); ?>
     <label for="product"></label>
-    <i title="Pro Only" class="bx bx-lock-alt"></i>
     <a class="starad-element-live-link" href="https://haine.mhrtheme.com/shop/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
 <?php }
 
@@ -268,9 +273,8 @@ function star_addons_widget_service_enable_callback() {
     else:
         $star_addons_widget_service_enable_new = '';
     endif;
-    echo __('<input type="checkbox" class="disabled" disabled id="service" name="new_settings2[star_addons_widget_service_enable]" value="1" '.checked(1, $star_addons_widget_service_enable_new, false).'>', 'star-addons-for-elementor').__('Services', 'star-addons-for-elementor'); ?>
+    echo __('<input type="checkbox" id="service" name="new_settings2[star_addons_widget_service_enable]" value="1" '.checked(1, $star_addons_widget_service_enable_new, false).'>', 'star-addons-for-elementor').__('Services', 'star-addons-for-elementor'); ?>
     <label for="service"></label>
-    <i title="Pro Only" class="bx bx-lock-alt"></i>
     <a class="starad-element-live-link" href="https://hizmet.mhrtheme.com/service-grid-three-columns/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
 <?php }
 
@@ -282,9 +286,8 @@ function star_addons_widget_portfolio_enable_callback() {
     else:
         $star_addons_widget_portfolio_enable_new = '';
     endif;
-    echo __('<input type="checkbox" class="disabled" disabled id="portfolio" name="new_settings2[star_addons_widget_portfolio_enable]" value="1" '.checked(1, $star_addons_widget_portfolio_enable_new, false).'>', 'star-addons-for-elementor').__('Portfolio', 'star-addons-for-elementor'); ?>
+    echo __('<input type="checkbox" id="portfolio" name="new_settings2[star_addons_widget_portfolio_enable]" value="1" '.checked(1, $star_addons_widget_portfolio_enable_new, false).'>', 'star-addons-for-elementor').__('Portfolio', 'star-addons-for-elementor'); ?>
     <label for="portfolio"></label>
-    <i title="Pro Only" class="bx bx-lock-alt"></i>
     <a class="starad-element-live-link" href="https://hizmet.mhrtheme.com/portfolio-grid/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
 <?php }
 
@@ -296,9 +299,8 @@ function star_addons_widget_pricing_enable_callback() {
     else:
         $star_addons_widget_pricing_enable_new = '';
     endif;
-    echo __('<input type="checkbox" class="disabled" disabled id="pricing" name="new_settings2[star_addons_widget_pricing_enable]" value="1" '.checked(1, $star_addons_widget_pricing_enable_new, false).'>', 'star-addons-for-elementor').__('Pricing', 'star-addons-for-elementor'); ?>
+    echo __('<input type="checkbox" id="pricing" name="new_settings2[star_addons_widget_pricing_enable]" value="1" '.checked(1, $star_addons_widget_pricing_enable_new, false).'>', 'star-addons-for-elementor').__('Pricing', 'star-addons-for-elementor'); ?>
     <label for="pricing"></label>
-    <i title="Pro Only" class="bx bx-lock-alt"></i>
     <a class="starad-element-live-link" href="https://hizmet.mhrtheme.com/pricing-table/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
 <?php }
 
@@ -323,8 +325,8 @@ function star_addons_widget_coming_enable_callback() {
     else:
         $star_addons_widget_coming_enable_new = '';
     endif;
-    echo __('<input type="checkbox" class="disabled" disabled id="coming" name="new_settings2[star_addons_widget_coming_enable]" value="1" '.checked(1, $star_addons_widget_coming_enable_new, false).'>', 'star-addons-for-elementor').__('Coming Soon', 'star-addons-for-elementor'); ?>
+    echo __('<input type="checkbox" id="coming" name="new_settings2[star_addons_widget_coming_enable]" value="1" '.checked(1, $star_addons_widget_coming_enable_new, false).'>', 'star-addons-for-elementor').__('Coming Soon', 'star-addons-for-elementor'); ?>
     <label for="coming"></label>
-    <i title="Pro Only" class="bx bx-lock-alt"></i>
     <a class="starad-element-live-link" href="https://hizmet.mhrtheme.com/coming-soon/" title="Live Demo" target="_blank"><i class="bx bx-log-in-circle"></i></a>
 <?php }
+

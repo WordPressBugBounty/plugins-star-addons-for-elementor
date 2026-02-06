@@ -22,8 +22,8 @@ function star_addons_template_general_callback() { ?>
                         <div class="star-home-banner-content">
                             <img src="<?php echo plugin_dir_url( dirname( __FILE__ ) ) . '../admin/img/logo.png'; ?>" alt="icon" />
                             <h2><?php echo esc_html('A Collection of Multiple Addons for Elementor', 'star-addons-for-elementor'); ?></h2>
-                            <p><?php echo esc_html('The plugin has 32+ beautiful unique niche demo variations + more adding!', 'star-addons-for-elementor'); ?></p>
-                            <a target="_blank" href="https://www.templatemonster.com/wordpress-plugins/star-addons-for-elementor-wordpress-addons-plugin-for-elementor-website-builder-321762.html" class="link-btn"><?php echo esc_html__('Buy Now', 'star-addons-for-elementor'); ?></a>
+                            <p><?php echo esc_html('The plugin has 33+ beautiful unique niche demo variations + more adding!', 'star-addons-for-elementor'); ?></p>
+                            <a target="_blank" href="https://templatemonster.com/wordpress-plugins/321762.html" class="link-btn"><?php echo esc_html__('Buy Now', 'star-addons-for-elementor'); ?></a>
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@ function star_addons_template_general_callback() { ?>
                     <?php echo esc_html__('Get started by spending some time with the documentation to get familiar with Star Addons.', 'star-addons-for-elementor'); ?>
                 </p>
                 <p><?php echo esc_html__('Download the plugin, unzip it, and then you will find the documentation folder.', 'star-addons-for-elementor'); ?></p>
-                <a target="_blank" href="https://account.templatemonster.com/downloads" class="link-btn"><?php echo esc_html__('Documentation', 'star-addons-for-elementor'); ?></a>
+                <a target="_blank" href="https://wordpress.org/plugins/star-addons-for-elementor/#installation" class="link-btn"><?php echo esc_html__('Documentation', 'star-addons-for-elementor'); ?></a>
             </div>
             <!-- End Docs Area -->
         </div>
@@ -56,9 +56,9 @@ function star_addons_template_general_callback() { ?>
                     <i class='bx bx-support'></i>
                 </div>
                 <h3><?php echo esc_html__('Got something to say? Need help?', 'star-addons-for-elementor'); ?></h3>
-                <p><?php echo esc_html__('If you have any more questions, visit our support on the Template Monster ticket system.', 'star-addons-for-elementor'); ?></p>
+                <p><?php echo esc_html__('If you have any more questions, visit our support on the WordPress support system.', 'star-addons-for-elementor'); ?></p>
                 <p><?php echo esc_html__('You will also get world class support from our dedicated team, 24/7. We will respond to you within 5 minutes.', 'star-addons-for-elementor'); ?></p>
-                <a target="_blank" href="https://account.templatemonster.com/downloads" target="_blank" class="link-btn"><?php echo esc_html__('Support', 'star-addons-for-elementor'); ?></a>
+                <a target="_blank" href="https://wordpress.org/support/plugin/star-addons-for-elementor/" target="_blank" class="link-btn"><?php echo esc_html__('Support', 'star-addons-for-elementor'); ?></a>
             </div>
             <!-- End Support Area -->
         </div>
@@ -71,7 +71,7 @@ function star_addons_template_general_callback() { ?>
                 <h3><?php echo esc_html__('Review', 'star-addons-for-elementor'); ?></h3>
                 <p><?php echo esc_html__('We love to have you in Star Addons family. We are making it more awesome everyday.', 'star-addons-for-elementor'); ?></p>
                 <p><?php echo esc_html__('Take your 2 minutes to review the plugin and spread the love to encourage us to keep it going.', 'star-addons-for-elementor'); ?></p>
-                <a target="_blank" href="https://account.templatemonster.com/downloads" class="link-btn"><?php echo esc_html__('Review', 'star-addons-for-elementor'); ?></a>
+                <a target="_blank" href="https://wordpress.org/plugins/star-addons-for-elementor/#reviews" class="link-btn"><?php echo esc_html__('Review', 'star-addons-for-elementor'); ?></a>
             </div>
             <!-- End Review Area -->
         </div>

@@ -3,7 +3,7 @@
 /**
  * Elementor LP Course Category Widget.
  *
- * @since 1.1
+ * @since 1.2
  */
 
 class Elementor_LP_Course_Category_Widget extends \Elementor\Widget_Base {

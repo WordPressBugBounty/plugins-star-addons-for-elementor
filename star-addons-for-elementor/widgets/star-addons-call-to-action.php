@@ -3,7 +3,7 @@
 /**
  * Elementor Call To Action Widget.
  *
- * @since 1.1
+ * @since 1.2
  */
 
 class Elementor_call_to_action_Widget extends \Elementor\Widget_Base {

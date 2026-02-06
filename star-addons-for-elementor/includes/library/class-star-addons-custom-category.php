@@ -33,7 +33,7 @@ if( ! class_exists( 'Showcase_Taxonomy_Images' ) ) {
   
    /**
     * Add a form field in the new category page
-    * @since 1.1
+    * @since 1.2
     */
   
    public function add_category_image( $taxonomy ) { ?>
@@ -50,7 +50,7 @@ if( ! class_exists( 'Showcase_Taxonomy_Images' ) ) {
 
    /**
     * Save the form field
-    * @since 1.1
+    * @since 1.2
     */
    public function save_category_image( $term_id, $tt_id ) {
      if( isset( $_POST['showcase-taxonomy-image-id'] ) && '' !== $_POST['showcase-taxonomy-image-id'] ){
@@ -60,7 +60,7 @@ if( ! class_exists( 'Showcase_Taxonomy_Images' ) ) {
 
     /**
      * Edit the form field
-     * @since 1.1
+     * @since 1.2
      */
     public function update_category_image( $term, $taxonomy ) { ?>
       <tr class="form-field term-group-wrap">
@@ -85,7 +85,7 @@ if( ! class_exists( 'Showcase_Taxonomy_Images' ) ) {
 
    /**
     * Update the form field value
-    * @since 1.1
+    * @since 1.2
     */
    public function updated_category_image( $term_id, $tt_id ) {
      if( isset( $_POST['showcase-taxonomy-image-id'] ) && '' !== $_POST['showcase-taxonomy-image-id'] ){
@@ -97,7 +97,7 @@ if( ! class_exists( 'Showcase_Taxonomy_Images' ) ) {
  
    /**
     * Enqueue styles and scripts
-    * @since 1.1
+    * @since 1.2
     */
    public function add_script() {
      if( ! isset( $_GET['taxonomy'] ) || $_GET['taxonomy'] != 'course_category' ) {

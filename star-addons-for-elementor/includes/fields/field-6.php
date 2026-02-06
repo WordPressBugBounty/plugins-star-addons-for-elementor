@@ -20,7 +20,7 @@ function star_addons_template_premium_callback() { ?>
                             <div class="features-box-content">
                                 <p><?php echo esc_html__('The premium version helps us to continue development of the product incorporating even more features and enhancements.', 'star-addons-for-elementor'); ?></p>
                                 <p><?php echo esc_html__('You will also get world class support from our dedicated team, 24/7.', 'star-addons-for-elementor'); ?></p>
-                                <a href="https://www.templatemonster.com/wordpress-plugins/star-addons-for-elementor-wordpress-addons-plugin-for-elementor-website-builder-321762.html" target="_blank" class="starad-btn"><?php echo esc_html__('Buy Now', 'star-addons-for-elementor'); ?></a>
+                                <a href="https://templatemonster.com/wordpress-plugins/321762.html" target="_blank" class="starad-btn"><?php echo esc_html__('Buy Now', 'star-addons-for-elementor'); ?></a>
                             </div>
                         </div>
                     </div>

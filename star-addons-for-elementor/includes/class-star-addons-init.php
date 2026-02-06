@@ -5,18 +5,18 @@
  *
  * The main class that initiates and runs the plugin.
  *
- * @since 1.1
+ * @since 1.2
  */
 final class Elementor_Star_Addons {
 
 	/**
 	 * Plugin Version
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @var string The plugin version.
 	 */
-	const VERSION = '1.1';
+	const VERSION = '1.2';
 
 	/**
 	 * Minimum Elementor Version
@@ -30,7 +30,7 @@ final class Elementor_Star_Addons {
 	/**
 	 * Minimum PHP Version
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @var string Minimum PHP version required to run the plugin.
 	 */
@@ -39,7 +39,7 @@ final class Elementor_Star_Addons {
 	/**
 	 * Instance
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @access private
 	 * @static
@@ -53,7 +53,7 @@ final class Elementor_Star_Addons {
 	 *
 	 * Ensures only one instance of the class is loaded or can be loaded.
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @access public
 	 * @static
@@ -72,7 +72,7 @@ final class Elementor_Star_Addons {
 	/**
 	 * Constructor
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @access public
 	 */
@@ -91,7 +91,7 @@ final class Elementor_Star_Addons {
 	 *
 	 * Fired by `init` action hook.
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @access public
 	 */
@@ -109,7 +109,7 @@ final class Elementor_Star_Addons {
 	 *
 	 * Fired by `plugins_loaded` action hook.
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @access public
 	 */
@@ -127,7 +127,7 @@ final class Elementor_Star_Addons {
 	 * Checks if the installed version of Elementor meets the plugin's minimum requirement.
 	 * Checks if the installed PHP version meets the plugin's minimum requirement.
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @access public
 	 */
@@ -163,7 +163,7 @@ final class Elementor_Star_Addons {
 	 *
 	 * Fired by `plugins_loaded` action hook.
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @access public
 	 */
@@ -190,7 +190,7 @@ final class Elementor_Star_Addons {
 	 *
 	 * Include widgets files and register them
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @access public
 	 */
@@ -200,20 +200,36 @@ final class Elementor_Star_Addons {
 		require_once( __DIR__ . '/class-star-addons-enable.php' );
 
 		// Include widget files
+		require_once( __DIR__ . '../../widgets/star-addons-multiple-slider.php' );
 		require_once( __DIR__ . '../../widgets/star-addons-slider.php' );
 		require_once( __DIR__ . '../../widgets/star-addons-banner.php' );
 		require_once( __DIR__ . '../../widgets/star-addons-lp-courses.php' );
 		require_once( __DIR__ . '../../widgets/star-addons-lp-course-category.php' );
 		require_once( __DIR__ . '../../widgets/star-addons-lp-course-tag.php' );
 		require_once( __DIR__ . '../../widgets/star-addons-team.php' );
+		require_once( __DIR__ . '../../widgets/star-addons-about-us.php' );
 		require_once( __DIR__ . '../../widgets/star-addons-testimonial.php' );
+		require_once( __DIR__ . '../../widgets/star-addons-contact.php' );
+		require_once( __DIR__ . '../../widgets/star-addons-blog.php' );
+		require_once( __DIR__ . '../../widgets/star-addons-header.php' );
+		require_once( __DIR__ . '../../widgets/star-addons-footer.php' );
 		require_once( __DIR__ . '../../widgets/star-addons-demos.php' );
 		require_once( __DIR__ . '../../widgets/star-addons-features.php' );
 		require_once( __DIR__ . '../../widgets/star-addons-call-to-action.php' );
+		require_once( __DIR__ . '../../widgets/star-addons-photo-gallery.php' );
+		require_once( __DIR__ . '../../widgets/star-addons-video-gallery.php' );
+		require_once( __DIR__ . '../../widgets/star-addons-product.php' );
 		require_once( __DIR__ . '../../widgets/star-addons-product-category.php' );
+		require_once( __DIR__ . '../../widgets/star-addons-service.php' );
+		require_once( __DIR__ . '../../widgets/star-addons-portfolio.php' );
+		require_once( __DIR__ . '../../widgets/star-addons-pricing.php' );
 		require_once( __DIR__ . '../../widgets/star-addons-faq.php' );
+		require_once( __DIR__ . '../../widgets/star-addons-coming-soon.php' );
 
 		// Register star addons widgets
+		if( $star_addons_widget_multiple_slider_enable_new ) :
+		    \Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Multiple_Slider_Widget() );
+		endif;
 		if( $star_addons_widget_slider_enable_new ) :
 		    \Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Slider_Widget() );
 		endif;
@@ -232,8 +248,23 @@ final class Elementor_Star_Addons {
 		if( $star_addons_widget_team_enable_new ) :
 		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Team_Widget() );
 		endif;
+		if( $star_addons_widget_about_enable_new ) :
+		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_About_Widget() );
+		endif;
 		if( $star_addons_widget_testimonial_enable_new ) :
 		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Testimonial_Widget() );
+		endif;
+		if( $star_addons_widget_contact_enable_new ) :
+		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Contact_Widget() );
+		endif;
+		if( $star_addons_widget_blog_enable_new ) :
+		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Blog_Widget() );
+		endif;
+		if( $star_addons_widget_header_enable_new ) :
+		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Header_Widget() );
+		endif;
+		if( $star_addons_widget_footer_enable_new ) :
+		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Footer_Widget() );
 		endif;
 		if( $star_addons_widget_demos_enable_new ) :
 		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Demos_Widget() );
@@ -244,11 +275,32 @@ final class Elementor_Star_Addons {
 		if( $star_addons_widget_call_enable_new ) :
 		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Call_To_Action_Widget() );
 		endif;
+		if( $star_addons_widget_photo_enable_new ) :
+		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Photo_Gallery_Widget() );
+		endif;
+		if( $star_addons_widget_video_enable_new ) :
+		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Video_Gallery_Widget() );
+		endif;
+		if( $star_addons_widget_product_enable_new ) :
+		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Product_Widget() );
+		endif;
 		if( $star_addons_widget_categories_enable_new ) :
 		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Product_Category_Widget() );
 		endif;
+		if( $star_addons_widget_service_enable_new ) :
+		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Service_Widget() );
+		endif;
+		if( $star_addons_widget_portfolio_enable_new ) :
+		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Portfolio_Widget() );
+		endif;
+		if( $star_addons_widget_pricing_enable_new ) :
+		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Pricing_Widget() );
+		endif;
 		if( $star_addons_widget_faq_enable_new ) :
 		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Faq_Widget() );
+		endif;
+		if( $star_addons_widget_coming_enable_new ) :
+		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Elementor_Coming_Soon_Widget() );
 		endif;
 	}
 	
@@ -257,7 +309,7 @@ final class Elementor_Star_Addons {
 	 *
 	 * Warning when the site doesn't have Elementor installed or activated.
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @access public
 	 */
@@ -287,7 +339,7 @@ final class Elementor_Star_Addons {
 	 *
 	 * Warning when the site doesn't have a minimum required Elementor version.
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @access public
 	 */
@@ -312,7 +364,7 @@ final class Elementor_Star_Addons {
 	 *
 	 * Warning when the site doesn't have a minimum required PHP version.
 	 *
-	 * @since 1.1
+	 * @since 1.2
 	 *
 	 * @access public
 	 */

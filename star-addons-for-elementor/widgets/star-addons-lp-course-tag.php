@@ -3,7 +3,7 @@
 /**
  * Elementor LP Course Tag Widget.
  *
- * @since 1.1
+ * @since 1.2
  */
 
 class Elementor_LP_Course_Tag_Widget extends \Elementor\Widget_Base {

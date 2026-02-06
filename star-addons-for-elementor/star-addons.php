@@ -3,14 +3,14 @@
 /**
  *
  * @link              https://mhrtheme.com
- * @since             1.1
+ * @since             1.2
  * @package           Star_Addons_For_Elementor
  *
  * @wordpress-plugin
  * Plugin Name:       Star Addons for Elementor
  * Plugin URI:        https://wordpress.org/plugins/star-addons-for-elementor
  * Description:       A collection of multiple addons for elementor website builder plugin. It also helps you to create template kits for elementor.
- * Version:           1.1
+ * Version:           1.2
  * Author:            MhrTheme
  * Author URI:        https://mhrtheme.com
  * License:           GPL-2.0+
@@ -26,10 +26,10 @@ if ( ! defined( 'WPINC' ) ) {
 
 /**
  * Currently plugin version.
- * Start at version 1.1 and use SemVer - https://semver.org
+ * Start at version 1.2 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'STAR_ADDONS_FOR_ELEMENTOR_VERSION', '1.1' );
+define( 'STAR_ADDONS_FOR_ELEMENTOR_VERSION', '1.2' );
 
 /**
  * The code that runs during plugin activation.
@@ -65,7 +65,7 @@ require plugin_dir_path( __FILE__ ) . 'includes/class-star-addons.php';
  * then kicking off the plugin from this point in the file does
  * not affect the page life cycle.
  *
- * @since    1.1
+ * @since    1.2
  */
 function run_star_addons_for_elementor() {
 

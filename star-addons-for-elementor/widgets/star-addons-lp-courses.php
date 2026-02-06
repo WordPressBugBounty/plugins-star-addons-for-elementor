@@ -3,7 +3,7 @@
 /**
  * Elementor LP Course Widget.
  *
- * @since 1.1
+ * @since 1.2
  */
 
 class Elementor_LP_Course_Widget extends \Elementor\Widget_Base {
@@ -654,7 +654,7 @@ class Elementor_LP_Course_Widget extends \Elementor\Widget_Base {
                                                     <div class="course-categories">
                                                         <?php
                                                         if ( ! get_the_terms( get_the_ID(), 'course_category' ) ) {
-                                                            esc_html_e( '', 'learnpress' );
+                                                            esc_html_e( 'Uncategorized', 'learnpress' );
                                                         } else {
                                                             echo get_the_term_list( get_the_ID(), 'course_category', '' );
                                                         }

@@ -4,7 +4,7 @@
  * Fired when the plugin is uninstalled.
  *
  * @link       https://mhrtheme.com
- * @since      1.1
+ * @since      1.2
  *
  * @package    Star_Addons_For_Elementor
  */

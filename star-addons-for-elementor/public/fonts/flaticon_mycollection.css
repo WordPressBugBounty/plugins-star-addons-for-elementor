@@ -1,0 +1,208 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon_mycollection";
+  src: url("./flaticon_mycollection.ttf?747929269b1d81a692533f9d818aef1c") format("truetype"), url("./flaticon_mycollection.woff?747929269b1d81a692533f9d818aef1c") format("woff"), url("./flaticon_mycollection.woff2?747929269b1d81a692533f9d818aef1c") format("woff2"), url("./flaticon_mycollection.eot?747929269b1d81a692533f9d818aef1c#iefix") format("embedded-opentype"), url("./flaticon_mycollection.svg?747929269b1d81a692533f9d818aef1c#flaticon_mycollection") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon_mycollection !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-bucket:before {
+  content: "\f103";
+}
+
+.flaticon-pin:before {
+  content: "";
+}
+
+.flaticon-downward-arrow:before {
+  content: "";
+}
+
+.flaticon-booking:before {
+  content: "";
+}
+
+.flaticon-calendar-silhouette:before {
+  content: "";
+}
+
+.flaticon-stationery:before {
+  content: "";
+}
+
+.flaticon-search:before {
+  content: "";
+}
+
+.flaticon-disinfection:before {
+  content: "";
+}
+
+.flaticon-internet:before {
+  content: "";
+}
+
+.flaticon-plus:before {
+  content: "";
+}
+
+.flaticon-down-arrow:before {
+  content: "";
+}
+
+.flaticon-account:before {
+  content: "";
+}
+
+.flaticon-phone-call:before {
+  content: "";
+}
+
+.flaticon-bed:before {
+  content: "";
+}
+
+.flaticon-email:before {
+  content: "";
+}
+
+.flaticon-towel-rail:before {
+  content: "";
+}
+
+.flaticon-shower:before {
+  content: "";
+}
+
+.flaticon-wifi:before {
+  content: "";
+}
+
+.flaticon-ironing:before {
+  content: "";
+}
+
+.flaticon-air-conditioning:before {
+  content: "";
+}
+
+.flaticon-iron:before {
+  content: "";
+}
+
+.flaticon-right-left:before {
+  content: "";
+}
+
+.flaticon-level-up:before {
+  content: "";
+}
+
+.flaticon-hotel:before {
+  content: "";
+}
+
+.flaticon-key:before {
+  content: "";
+}
+
+.flaticon-single-bed:before {
+  content: "";
+}
+
+.flaticon-covered-food-tray-on-a-hand-of-hotel-room-service:before {
+  content: "";
+}
+
+.flaticon-television:before {
+  content: "";
+}
+
+.flaticon-left-arrow:before {
+  content: "";
+}
+
+.flaticon-right-arrow:before {
+  content: "";
+}
+
+.flaticon-balcony:before {
+  content: "";
+}
+
+.flaticon-like:before {
+  content: "";
+}
+
+.flaticon-scale:before {
+  content: "";
+}
+
+.flaticon-guests:before {
+  content: "";
+}
+
+.flaticon-calendar:before {
+  content: "";
+}
+
+.flaticon-left-arrow-1:before {
+  content: "";
+}
+
+.flaticon-next:before {
+  content: "";
+}
+
+.flaticon-business-person-silhouette-wearing-tie:before {
+  content: "";
+}
+
+.flaticon-airplane:before {
+  content: "";
+}
+
+.flaticon-tea-pot:before {
+  content: "";
+}
+
+.flaticon-paper-plane:before {
+  content: "";
+}
+
+.flaticon-user:before {
+  content: "";
+}
+
+.flaticon-facebook:before {
+  content: "";
+}
+
+.flaticon-instagram:before {
+  content: "";
+}
+
+.flaticon-linkedin:before {
+  content: "";
+}
+
+.flaticon-twitter:before {
+  content: "";
+}
+
+.flaticon-luggage:before {
+  content: "";
+}
+
+.flaticon-coffee:before {
+  content: "";
+}

@@ -7,7 +7,7 @@
  * so that it is ready for translation.
  *
  * @link       https://mhrtheme.com
- * @since      1.1
+ * @since      1.2
  *
  * @package    Star_Addons_For_Elementor
  * @subpackage Star_Addons_For_Elementor/includes
@@ -19,7 +19,7 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @since      1.1
+ * @since      1.2
  * @package    Star_Addons_For_Elementor
  * @subpackage Star_Addons_For_Elementor/includes
  * @author     MhrTheme <hello@mhrtheme.com>
@@ -30,7 +30,7 @@ class Star_Addons_For_Elementor_i18n {
 	/**
 	 * Load the plugin text domain for translation.
 	 *
-	 * @since    1.1
+	 * @since    1.2
 	 */
 	public function load_plugin_textdomain() {
 

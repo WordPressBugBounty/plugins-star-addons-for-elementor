@@ -4,7 +4,7 @@
  * Fired during plugin deactivation
  *
  * @link       https://mhrtheme.com
- * @since      1.1
+ * @since      1.2
  *
  * @package    Star_Addons_For_Elementor
  * @subpackage Star_Addons_For_Elementor/includes
@@ -15,7 +15,7 @@
  *
  * This class defines all code necessary to run during the plugin's deactivation.
  *
- * @since      1.1
+ * @since      1.2
  * @package    Star_Addons_For_Elementor
  * @subpackage Star_Addons_For_Elementor/includes
  * @author     MhrTheme <hello@mhrtheme.com>
@@ -27,7 +27,7 @@ class Star_Addons_For_Elementor_Deactivator {
 	 *
 	 * Long Description.
 	 *
-	 * @since    1.1
+	 * @since    1.2
 	 */
 	public static function deactivate() {
 

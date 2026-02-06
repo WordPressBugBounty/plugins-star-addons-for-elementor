@@ -3,7 +3,7 @@
 /**
  * Elementor Demos Widget.
  *
- * @since 1.1
+ * @since 1.2
  */
 
 class Elementor_Demos_Widget extends \Elementor\Widget_Base {
@@ -256,9 +256,9 @@ class Elementor_Demos_Widget extends \Elementor\Widget_Base {
 		    if( $settings['demos_item_column'] == 'columns-2' ) :
 				$demos_column = 'col-xl-6 col-lg-6 col-md-6 col-sm-12';
 			elseif( $settings['demos_item_column'] == 'columns-3' ) :
-				$demos_column = 'col-xl-4 col-lg-6 col-md-6 col-sm-12';
+				$demos_column = 'col-xxl-3 col-xl-4 col-lg-4 col-md-6 col-sm-12';
 			elseif( $settings['demos_item_column'] == 'columns-4' ) :
-				$demos_column = 'col-xl-3 col-lg-6 col-md-6 col-sm-12';
+				$demos_column = 'col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-12';
 			endif;
 		endif; 
 

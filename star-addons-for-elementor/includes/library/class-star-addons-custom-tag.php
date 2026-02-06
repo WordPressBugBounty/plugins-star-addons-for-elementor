@@ -33,7 +33,7 @@ if( ! class_exists( 'Showcase_Tag_Images' ) ) {
   
    /**
     * Add a form field in the new tag page
-    * @since 1.1
+    * @since 1.2
     */
   
    public function add_tag_image( $taxonomy ) { ?>
@@ -50,7 +50,7 @@ if( ! class_exists( 'Showcase_Tag_Images' ) ) {
 
    /**
     * Save the form field
-    * @since 1.1
+    * @since 1.2
     */
    public function save_tag_image( $term_id, $tt_id ) {
      if( isset( $_POST['showcase-tag-image-id'] ) && '' !== $_POST['showcase-tag-image-id'] ){
@@ -60,7 +60,7 @@ if( ! class_exists( 'Showcase_Tag_Images' ) ) {
 
     /**
      * Edit the form field
-     * @since 1.1
+     * @since 1.2
      */
     public function update_tag_image( $term, $taxonomy ) { ?>
       <tr class="form-field term-group-wrap">
@@ -85,7 +85,7 @@ if( ! class_exists( 'Showcase_Tag_Images' ) ) {
 
    /**
     * Update the form field value
-    * @since 1.1
+    * @since 1.2
     */
    public function updated_tag_image( $term_id, $tt_id ) {
      if( isset( $_POST['showcase-tag-image-id'] ) && '' !== $_POST['showcase-tag-image-id'] ){
@@ -97,7 +97,7 @@ if( ! class_exists( 'Showcase_Tag_Images' ) ) {
  
    /**
     * Enqueue styles and scripts
-    * @since 1.1
+    * @since 1.2
     */
    public function add_script() {
      if( ! isset( $_GET['taxonomy'] ) || $_GET['taxonomy'] != 'course_tag' ) {

@@ -4,7 +4,7 @@
  * The public-facing functionality of the plugin.
  *
  * @link       https://mhrtheme.com
- * @since      1.1
+ * @since      1.2
  *
  * @package    Star_Addons_For_Elementor
  * @subpackage Star_Addons_For_Elementor/public
@@ -25,7 +25,7 @@ class Star_Addons_For_Elementor_Public {
 	/**
 	 * The ID of this plugin.
 	 *
-	 * @since    1.1
+	 * @since    1.2
 	 * @access   private
 	 * @var      string    $plugin_name    The ID of this plugin.
 	 */
@@ -34,7 +34,7 @@ class Star_Addons_For_Elementor_Public {
 	/**
 	 * The version of this plugin.
 	 *
-	 * @since    1.1
+	 * @since    1.2
 	 * @access   private
 	 * @var      string    $version    The current version of this plugin.
 	 */
@@ -43,7 +43,7 @@ class Star_Addons_For_Elementor_Public {
 	/**
 	 * Initialize the class and set its properties.
 	 *
-	 * @since    1.1
+	 * @since    1.2
 	 * @param      string    $plugin_name       The name of the plugin.
 	 * @param      string    $version    The version of this plugin.
 	 */
@@ -57,7 +57,7 @@ class Star_Addons_For_Elementor_Public {
 	/**
 	 * Register the stylesheets for the public-facing side of the site.
 	 *
-	 * @since    1.1
+	 * @since    1.2
 	 */
 	public function enqueue_styles() {
         
@@ -79,7 +79,13 @@ class Star_Addons_For_Elementor_Public {
 
 		wp_enqueue_style( 'star-addons-aos', plugin_dir_url( __FILE__ ) . 'css/aos.css', array(), $this->version, 'all' );
 
-		wp_enqueue_style( 'star-addons-boxicons', plugin_dir_url( __FILE__ ) . 'css/boxicons.min.css', array(), $this->version, 'all' );
+		wp_enqueue_style( 'star-addons-font-awesome', plugin_dir_url( __FILE__ ) . 'css/star-addons-font-awesome.css', array(), $this->version, 'all' );
+
+        wp_enqueue_style( 'star-addons-boxicons', plugin_dir_url( __FILE__ ) . 'css/star-addons-boxicons.min.css', array(), $this->version, 'all' );
+
+        wp_enqueue_style( 'star-addons-remix', plugin_dir_url( __FILE__ ) . 'css/star-addons-remixicon.css', array(), $this->version, 'all' );
+
+        wp_enqueue_style( 'star-addons-flaticon', plugin_dir_url( __FILE__ ) . 'fonts/flaticon_mycollection.css', array(), $this->version, 'all' );
 
 		wp_enqueue_style( 'star-addons-odometer', plugin_dir_url( __FILE__ ) . 'css/odometer.css', array(), $this->version, 'all' );
 
@@ -100,7 +106,7 @@ class Star_Addons_For_Elementor_Public {
 	/**
 	 * Register the JavaScript for the public-facing side of the site.
 	 *
-	 * @since    1.1
+	 * @since    1.2
 	 */
 	public function enqueue_scripts() {
 

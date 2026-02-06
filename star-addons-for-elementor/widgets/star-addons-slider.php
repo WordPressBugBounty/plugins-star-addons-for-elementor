@@ -3,7 +3,7 @@
 /**
  * Elementor Slider Widget.
  *
- * @since 1.1
+ * @since 1.2
  */
 
 class Elementor_Slider_Widget extends \Elementor\Widget_Base {
